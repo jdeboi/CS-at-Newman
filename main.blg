@@ -1,0 +1,63 @@
+This is BibTeX, Version 0.99d (TeX Live 2015)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: main.aux
+The style file: unsrtnat.bst
+Database file #1: Bibliography.bib
+Warning--I didn't find a database entry for "codeapps"
+Warning--empty journal in cmct
+Warning--empty year in cmct
+Warning--empty year in cmct
+Warning--empty journal in googed
+Warning--empty year in googed
+Warning--empty year in googed
+Warning--empty author in wit
+Warning--empty year in wit
+Warning--empty year in wit
+Warning--empty author in laborstats
+Warning--empty journal in codeorgstats
+Warning--empty journal in gallup
+Warning--empty journal in apfive
+Warning--empty journal in csta
+Warning--empty journal in ngss
+You've used 16 entries,
+            2481 wiz_defined-function locations,
+            634 strings with 7129 characters,
+and the built_in function-call counts, 4397 in all, are:
+= -- 394
+> -- 98
+< -- 14
++ -- 60
+- -- 28
+* -- 253
+:= -- 709
+add.period$ -- 61
+call.type$ -- 16
+change.case$ -- 32
+chr.to.int$ -- 16
+cite$ -- 33
+duplicate$ -- 289
+empty$ -- 461
+format.name$ -- 42
+if$ -- 928
+int.to.chr$ -- 1
+int.to.str$ -- 17
+missing$ -- 16
+newline$ -- 101
+num.names$ -- 42
+pop$ -- 150
+preamble$ -- 1
+purify$ -- 16
+quote$ -- 0
+skip$ -- 165
+stack$ -- 0
+substring$ -- 49
+swap$ -- 31
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 112
+warning$ -- 15
+while$ -- 29
+width$ -- 0
+write$ -- 218
+(There were 16 warnings)

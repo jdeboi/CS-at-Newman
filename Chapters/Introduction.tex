@@ -1,0 +1,51 @@
+% Chapter 1
+
+\chapter{Introduction} % Main chapter title
+
+\label{Introduction} % For referencing the chapter elsewhere, use \ref{Chapter1} 
+
+\lhead{Introduction} % This is for the header on each page - perhaps a shortened title
+
+%----------------------------------------------------------------------------------------
+
+\section{What is computer science?}
+For the purpose of avoiding potentially derailing semantics, it's instructive to begin with definitions of computer-related concepts used throughout this document. \par
+\textbf{``Coding"} is the latest term to gain momentum in the education vernacular, popularized by the \href{https://hourofcode.com/us}{Hour of Code} and online learning platforms like Scratch. While ``coding" may be used to convey the beginning steps of \textbf{computer programming} \cite{huffpo}, the terms are used synonymously and can be defined as follows: the process of writing or compiling machine instructions to accomplish a task. Coding is most commonly associated with the creation of websites, software applications, and mobile apps; however, there are innumerable potential applications of code. There are languages to program music, wearable tech, autonomous drones, interactive art visualizations, financial data, research documents (like this one!), 3D printers, robotics, and the list goes on. \par
+Perhaps less common but equally as important is the concept of \textbf{``computational thinking"} (CT). Jeanette Wing, the Director of the Carnegie Mellon Center for Computational Thinking, is arguably the projenitor of the term \cite{backtoschool}. The center describes CT as ``a way of solving problems, designing systems, and understanding human behavior that draws on concepts fundamental to computer science... [by] making use of different levels of abstraction and thinking algorithmically" \cite{cmct}. Google for Education defines CT as ``a problem solving process that includes a number of characteristics, such as logically ordering and analyzing data and creating solutions using a series of ordered steps (or algorithms), and dispositions, such as the ability to confidently deal with complexity and open-ended problems" \cite{googed}. To summarize, CT is a set of problem-solving mindsets independent of computer programming that are applicable to all disciplines, not just computing. Emphasis on CT, especially in early K-12 education, will lay a strong foundation for future coursework in a myriad of fields.\par
+
+\textbf{Computer science} (CS) employs computational thinking mindsets in the study and execution of computer programs and algorithmic processes. Coding is an essential, but not exclusive, component of CS, as is the study of hardware and software designs, their applications, and their impact on society. \par
+While coding, computational thinking, and computer science are used interchangably throughout this document to refer to a set of K-12 curriculum encompassing all three, is important to distinguish ``computer science'' from \textbf{``computer literacy.''} The National Center for Women and Information Technology states, ``the ability to create and adapt new technologies distinguishes computer science from computer literacy, which focuses more on using existing technologies (e.g., word processing, spreadsheets)" \cite{wit}. Computer science teaches students how to think logically, solve hard problems, and understand the internal processes of computing rather than merely understanding how to use specific software. Although this document will focus primarily on CS, computer literacy is neither obsolete nor irrelevant (e.g. keyboarding) in 21st century education. \par  
+
+%----------------------------------------------------------------------------------------
+
+\section{The importance of coding in K-12 education}
+In September 2015, New York City Mayor Bill de Blasio announced that all of the city’s public schools would be required to offer computer science within the next 10 years. The announcement was neither the first of its kind nor the boldest; in December 2013, Chicago Mayor Rahm Emanuel launched Computer Science 4 All, a plan mandating a year-long computer science high school graduation requirement by 2019 \cite{chicagoCS}. And on the national stage, in early December 2015 President Obama signed into law a bipartisan bill - the Every Student Suceeds Act - recognizing computer science as a foundational academic subject on equal footing with subjects like math and English \cite{WSJref}. \par
+Municipal, state, and federal policymakers' recent focus on computer science education is well-placed. Politicians on all levels of government are attempting to answer the technology industry's clarion call to fill a growing shortage of engineers. Education, especially K-12 education, is failing to keep pace with a rapidly-evolving workplace, jeopardizing the success and employment potential of American students. \par
+\textbf{COMPUTER SCIENCE EMPLOYMENT} \\
+According to the U.S. Bureau of Labor Statistics, computer and information technology jobs will be some of the fastest growing occupations in America, making up approximately 2/3 of the 1.1 million new STEM jobs projected for 2012-2022. \cite{laborstats}. By 2022 the Bureau of Labor Statistics estimates there will be over 1 million open computing jobs \cite{laborstats}. Code.org, a non-profit dedicated to expanding computer science education, emphasizes that these computing jobs will fall under every industry, not just tech. Finance, business, government, manufacturing, and education are all industries projected to need computating skills in the next decade \cite{codeorgstats}.\par
+Not only are unfilled computer science jobs abundant, they have high income potential. The highest paying degree in the U.S. is a computer science degree from Carnegie Mellon (\$84,000), and among all universities, the National Association of Colleges and Employers (NACE) survey ranks computer science as first or second in income potential \cite{forbeshigh}. \par
+\textbf{WORKFORCE SHORTAGE} \\
+Despite the high growth projections of well-paying computing jobs, skilled programmers aren't entering the workforce at a rate necessary to keep up with demand. Code.org estimates that there are 600,000 computing jobs open in the U.S. but only 38,175 students graduated with a computer science degree in 2013 \cite{codeorgstats}. 38,175 represents under 8\% of all STEM degrees earned in 2013, a problematic number considering that projections estimate 2/3 of all STEM jobs will be in a computing field \cite{laborstats}. \par
+\textbf{K-12 EDUCATION GAP} \\
+Education, especially K-12, has a significant role to play in the growing shortage of computer sciene graduates. Only 1 in 4 U.S. schools offer computer science classes with computer programming \cite{gallup}, and in 23 states computer science cannot be used to meet math or science graduation requirements \cite{WSJref}. According to the Gallup study \cite{gallup}, many school administrators do not perceive a demand by parents and students for computer science. The study states that the main reason school principals do not offer computer science is the lack of time for classes not required by testing, as well as the inability to hire computer science teachers due to availability and budget constraints \cite{gallup}. \par 
+\textbf{UNDERREPRESENTED GROUPS} \\
+Women and people of color are especially at risk of falling behind and losing access to high-paying computing employment. In 2011, women made up 21\% of students who took the AP computer science exam, and less than 1\% were African American \cite{backtoschool}. For many students, access to technology is the greatest hurdle. Hispanic students have less access to internet access at home than white or black students \cite{gallup}. \par
+In the context of evaluating the importance of K-12 computer science education, it is critically important to point out that this opportunity gap begins in K-12 education. Table \ref{tab:csgap} indicates that by high school, women and people of color are underrepresented in the AP CS exam; this trend remains relatively stable through college and into the workforce. \par
+\begin{table}
+	\centering
+		\begin{tabular}{ | l | p{3cm}|p{3cm}|p{3cm}| } \hline
+			\textbf{Group} & \textbf{AP CS Exam} & \textbf{CS Bachelor’s} & \textbf{Computing Jobs} \\ \hline
+			Females & 22\% & 17\% & 23\% \\ \hline
+			People of Color & 13\% & 18\% & 14\% \\ \hline
+		\end{tabular}
+		\caption{Percentage of Underrepresented Groups in Computer Science \cite{codeorgstats}} \label{tab:csgap} 
+\end{table} 
+			
+While closing the gender and achievement gap may seem daunting, early and frequent exposure to computer science throughout K-12 education has been demonstrated to have significant impacts on career outcomes. Women who try AP Computer Science in high school are ten times more likely to major in it in college, and Black and Hispanic students are seven times more likely \cite{apfive}. \par
+
+\textbf{CONCLUSION} \\
+Computing jobs are on the rise, and unless public policy and education quickly fall in line with the needs of an evolving workforce, American students will miss out on valuable opportunities to pursue careers in a myriad of fields. K-12 exposure to computer science, especially for women and people of color, is necessary to close the computing gap. To that end, placing computer science on equal footing with other core subjects or graduation requirements is a necessary step to ensure our students are able to succeed in the 21st century. \par
+
+
+
+

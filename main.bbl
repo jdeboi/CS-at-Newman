@@ -1,0 +1,115 @@
+\begin{thebibliography}{16}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Prottsman(2015)]{huffpo}
+K.~Prottsman.
+\newblock Coding vs. programming -- battle of the terms!
+\newblock \emph{Huffington Post}, April 2015.
+\newblock URL
+  \url{http://www.huffingtonpost.com/kiki-prottsman/coding-vs-programming-bat_b_7042816.html}.
+
+\bibitem[for Computational~Thinking()]{cmct}
+Carnegie Mellon~Center for Computational~Thinking.
+\newblock What is computational thinking?
+\newblock URL \url{http://www.cs.cmu.edu/~CompThink/}.
+
+\bibitem[for Education()]{googed}
+Google for Education.
+\newblock Exploring computational thinking.
+\newblock URL
+  \url{https://www.google.com/edu/resources/programs/exploring-computational-thinking/}.
+
+\bibitem[wit()]{wit}
+Moving beyond computer literacy: Why schools should teach computer science.
+\newblock \emph{National Center for Women and Information Technology}.
+\newblock URL
+  \url{https://www.ncwit.org/resources/moving-beyond-computer-literacy-why-schools-should-teach-computer-science/moving-beyond}.
+
+\bibitem[Office(2014)]{chicagoCS}
+Mayor's~Press Office.
+\newblock Mayor emanuel announces major gains in computer science 4 all
+  program.
+\newblock \emph{City of Chicago}, December 2014.
+\newblock URL
+  \url{http://www.cityofchicago.org/city/en/depts/mayor/press_room/press_releases/2014/dec/mayor-emanuel-announces-major-gains-in-computer-science-4-all-pr.html}.
+
+\bibitem[Koh(2015)]{WSJref}
+Y.~Koh.
+\newblock New education bill to get more coding in classrooms.
+\newblock \emph{Wall Street Journal}, December 2015.
+\newblock URL
+  \url{http://blogs.wsj.com/digits/2015/12/10/new-education-bill-to-get-more-coding-in-classrooms/}.
+
+\bibitem[lab(2014)]{laborstats}
+Employment projections.
+\newblock \emph{Bureau of Labor Statistics}, 2014.
+\newblock URL \url{http://www.bls.gov/emp/tables.htm}.
+
+\bibitem[Code.org(2015)]{codeorgstats}
+Code.org.
+\newblock Summary of source data for code.org infographics and stats.
+\newblock 2015.
+\newblock URL
+  \url{https://docs.google.com/document/d/1gySkItxiJn_vwb8HIIKNXqen184mRtzDX12cux0ZgZk/pub}.
+
+\bibitem[Adams(2013)]{forbeshigh}
+S.~Adams.
+\newblock 25 college diplomas with the highest pay.
+\newblock \emph{Forbes}, April 2013.
+\newblock URL
+  \url{http://www.forbes.com/pictures/mkl45kkeg/1-carnegie-mellon-school-of-computer-science/}.
+
+\bibitem[Gallup(2014)]{gallup}
+Gallup.
+\newblock Searching for computer science: Access and barriers in u.s. k-12
+  education.
+\newblock 2014.
+\newblock URL \url{http://csedu.gallup.com/}.
+
+\bibitem[Yasmin B.~Kafai(2013)]{backtoschool}
+Quinn~Burke Yasmin B.~Kafai.
+\newblock Computer programming goes back to school.
+\newblock \emph{The Phi Delta Kappan}, 95\penalty0 (1):\penalty0 61--65, 2013.
+\newblock ISSN 00317217.
+\newblock URL \url{http://www.jstor.org/stable/23617761}.
+
+\bibitem[Board(2007)]{apfive}
+College Board.
+\newblock Ap® students in college: An analysis of five-year academic careers.
+\newblock 2007.
+\newblock URL
+  \url{http://research.collegeboard.org/sites/default/files/publications/2012/7/researchreport-2007-4-ap-students-college-analysis-five-year-academic-careers.pdf}.
+
+\bibitem[Board(2015)]{APcomp}
+College Board.
+\newblock Ap computer science principles curriculum framework.
+\newblock \emph{Advances in AP}, December 2015.
+\newblock URL
+  \url{https://advancesinap.collegeboard.org/stem/computer-science-principles/course-details}.
+
+\bibitem[Bell(2015)]{edsurgetab}
+K.~Bell.
+\newblock A beginner’s guide to bringing coding into the classroom.
+\newblock \emph{edSurge}, November 2015.
+\newblock URL
+  \url{https://www.edsurge.com/news/2015-11-30-a-beginner-s-guide-to-bringing-coding-into-the-classroom}.
+
+\bibitem[(CSTA)(2011)]{csta}
+Computer Science Teachers~Association (CSTA).
+\newblock K-12 computer science standards.
+\newblock 2011.
+\newblock URL
+  \url{http://www.csta.acm.org/Curriculum/sub/CurrFiles/CSTA_K-12_CSS.pdf}.
+
+\bibitem[Standards(2015)]{ngss}
+Next Generation~Science Standards.
+\newblock Engineering design standards.
+\newblock 2015.
+\newblock URL
+  \url{http://www.nextgenscience.org/search-standards-dci?field_idea_tid%5B%5D=113}.
+
+\end{thebibliography}

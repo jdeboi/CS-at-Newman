@@ -1,0 +1,39 @@
+\contentsline {chapter}{Foreword}{i}{chapter*.1}
+\contentsline {chapter}{Self-Consistency...}{ii}{chapter*.2}
+\contentsline {chapter}{Contents}{ii}{dummy.3}
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.5}
+\contentsline {section}{\numberline {1.1}What is computer science?}{1}{section.6}
+\contentsline {section}{\numberline {1.2}The importance of coding in K-12 education}{2}{section.7}
+\contentsline {chapter}{\numberline {2}Research}{5}{chapter.9}
+\contentsline {section}{\numberline {2.1}Case Studies}{5}{section.10}
+\contentsline {subsection}{\numberline {2.1.1}Index Schools}{5}{subsection.11}
+\contentsline {subsection}{\numberline {2.1.2}Other Independent Schools}{5}{subsection.12}
+\contentsline {subsection}{\numberline {2.1.3}Public Schools}{6}{subsection.13}
+\contentsline {subsection}{\numberline {2.1.4}Code Schools}{6}{subsection.14}
+\contentsline {subsection}{\numberline {2.1.5}Higher Education}{6}{subsection.15}
+\contentsline {section}{\numberline {2.2}National Standards}{6}{section.16}
+\contentsline {subsection}{\numberline {2.2.1}CSTA}{6}{subsection.17}
+\contentsline {subsection}{\numberline {2.2.2}ISTE}{6}{subsection.18}
+\contentsline {subsection}{\numberline {2.2.3}AP}{6}{subsection.19}
+\contentsline {subsection}{\numberline {2.2.4}Next Generation Science Standards}{7}{subsection.34}
+\contentsline {subsection}{\numberline {2.2.5}Common Core}{8}{subsection.35}
+\contentsline {section}{\numberline {2.3}Online Tools}{8}{section.36}
+\contentsline {section}{\numberline {2.4}Hardware Tools}{8}{section.37}
+\contentsline {chapter}{\numberline {3}Newman Past and Present}{9}{chapter.38}
+\contentsline {section}{\numberline {3.1}Previous Programs}{9}{section.39}
+\contentsline {section}{\numberline {3.2}Present Status}{9}{section.46}
+\contentsline {chapter}{\numberline {4}Recommendations}{10}{chapter.47}
+\contentsline {section}{\numberline {4.1}Lower School}{10}{section.48}
+\contentsline {section}{\numberline {4.2}Middle School}{10}{section.49}
+\contentsline {section}{\numberline {4.3}Upper School}{10}{section.55}
+\contentsline {subsection}{\numberline {4.3.1}Stage 1}{11}{subsection.57}
+\contentsline {subsection}{\numberline {4.3.2}Stage 2}{12}{subsection.60}
+\contentsline {subsection}{\numberline {4.3.3}CS as a Core Subject}{12}{subsection.61}
+\contentsline {subsection}{\numberline {4.3.4}Innovation, Design Thinking, \& CS}{12}{subsection.62}
+\vspace {2em}
+\contentsline {chapter}{\numberline {A}Appendix A: Coding Tools \& Curriculum}{13}{appendix.63}
+\contentsline {chapter}{\numberline {B}Appendix B: Hardware Tools}{18}{appendix.65}
+\contentsline {chapter}{\numberline {C}Appendix C: CSTA Benchmarks}{19}{appendix.66}
+\contentsline {chapter}{\numberline {D}Appendix D: NGSS Standards}{27}{appendix.72}
+\vspace {2em}
+\contentsline {chapter}{Bibliography}{29}{dummy.74}
