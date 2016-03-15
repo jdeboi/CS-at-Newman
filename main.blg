@@ -33,6 +33,10 @@ Warning--empty journal in edisonacad
 Warning--empty journal in westside
 Warning--empty year in westside
 Warning--empty year in westside
+Warning--empty journal in pomonacs1
+Warning--empty year in pomonacs1
+Warning--empty journal in pomona
+Warning--empty year in pomona
 Warning--empty journal in csta
 Warning--empty title in iste
 Warning--empty journal in iste
@@ -43,45 +47,45 @@ Warning--empty journal in tynker
 Warning--empty year in tynker
 Warning--empty year in tynker
 Warning--empty journal in ngss
-You've used 26 entries,
+You've used 28 entries,
             2481 wiz_defined-function locations,
-            671 strings with 8251 characters,
-and the built_in function-call counts, 7079 in all, are:
-= -- 622
-> -- 162
-< -- 22
-+ -- 100
-- -- 46
-* -- 430
-:= -- 1118
-add.period$ -- 93
-call.type$ -- 26
-change.case$ -- 51
-chr.to.int$ -- 24
-cite$ -- 69
-duplicate$ -- 469
-empty$ -- 745
-format.name$ -- 70
-if$ -- 1488
-int.to.chr$ -- 3
-int.to.str$ -- 27
-missing$ -- 26
-newline$ -- 153
-num.names$ -- 66
-pop$ -- 270
+            678 strings with 8543 characters,
+and the built_in function-call counts, 7631 in all, are:
+= -- 670
+> -- 176
+< -- 24
++ -- 109
+- -- 50
+* -- 462
+:= -- 1208
+add.period$ -- 101
+call.type$ -- 28
+change.case$ -- 55
+chr.to.int$ -- 25
+cite$ -- 75
+duplicate$ -- 505
+empty$ -- 801
+format.name$ -- 76
+if$ -- 1602
+int.to.chr$ -- 4
+int.to.str$ -- 29
+missing$ -- 28
+newline$ -- 165
+num.names$ -- 72
+pop$ -- 294
 preamble$ -- 1
-purify$ -- 26
+purify$ -- 28
 quote$ -- 0
-skip$ -- 256
+skip$ -- 271
 stack$ -- 0
-substring$ -- 71
-swap$ -- 46
+substring$ -- 75
+swap$ -- 50
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 182
-warning$ -- 39
-while$ -- 45
+type$ -- 196
+warning$ -- 43
+while$ -- 49
 width$ -- 0
-write$ -- 333
-(There were 40 warnings)
+write$ -- 359
+(There were 44 warnings)

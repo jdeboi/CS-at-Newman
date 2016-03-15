@@ -1,4 +1,4 @@
-\begin{thebibliography}{26}
+\begin{thebibliography}{28}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -123,6 +123,20 @@ Edison academy: Electronics and computer engineering technology (ecet) program.
 Westside High School~Magnet for Integrated~Technology.
 \newblock Computing science and engineering.
 \newblock URL \url{http://www.houstonisd.org/Page/73698}.
+
+\bibitem[Department({\natexlab{a}})]{pomonacs1}
+Pomona College Computer~Science Department.
+\newblock Course catalog - computer science.
+\newblock {\natexlab{a}}.
+\newblock URL
+  \url{http://catalog.pomona.edu/preview_entity.php?catoid=18&ent_oid=1072&returnto=3635}.
+
+\bibitem[Department({\natexlab{b}})]{pomona}
+Pomona College Computer~Science Department.
+\newblock Learning objectives.
+\newblock {\natexlab{b}}.
+\newblock URL
+  \url{https://www.pomona.edu/academics/departments/computer-science/courses-requirements/learning-objectives}.
 
 \bibitem[(CSTA)(2011)]{csta}
 Computer Science Teachers~Association (CSTA).
