@@ -17,47 +17,71 @@ Warning--empty author in laborstats
 Warning--empty journal in codeorgstats
 Warning--empty journal in gallup
 Warning--empty journal in apfive
+Warning--empty journal in index
+Warning--empty year in index
+Warning--empty year in index
+Warning--empty author in usnews
+Warning--empty journal in tjreq
+Warning--empty year in tjreq
+Warning--empty year in tjreq
+Warning--empty journal in stuy
+Warning--empty year in stuy
+Warning--empty journal in hths
+Warning--empty year in hths
+Warning--empty author in edisonacad
+Warning--empty journal in edisonacad
+Warning--empty journal in westside
+Warning--empty year in westside
+Warning--empty year in westside
 Warning--empty journal in csta
+Warning--empty title in iste
+Warning--empty journal in iste
+Warning--empty year in iste
+Warning--empty year in iste
+Warning--empty journal in ngsss
+Warning--empty journal in tynker
+Warning--empty year in tynker
+Warning--empty year in tynker
 Warning--empty journal in ngss
-You've used 16 entries,
+You've used 26 entries,
             2481 wiz_defined-function locations,
-            634 strings with 7129 characters,
-and the built_in function-call counts, 4397 in all, are:
-= -- 394
-> -- 98
-< -- 14
-+ -- 60
-- -- 28
-* -- 253
-:= -- 709
-add.period$ -- 61
-call.type$ -- 16
-change.case$ -- 32
-chr.to.int$ -- 16
-cite$ -- 33
-duplicate$ -- 289
-empty$ -- 461
-format.name$ -- 42
-if$ -- 928
-int.to.chr$ -- 1
-int.to.str$ -- 17
-missing$ -- 16
-newline$ -- 101
-num.names$ -- 42
-pop$ -- 150
+            671 strings with 8251 characters,
+and the built_in function-call counts, 7079 in all, are:
+= -- 622
+> -- 162
+< -- 22
++ -- 100
+- -- 46
+* -- 430
+:= -- 1118
+add.period$ -- 93
+call.type$ -- 26
+change.case$ -- 51
+chr.to.int$ -- 24
+cite$ -- 69
+duplicate$ -- 469
+empty$ -- 745
+format.name$ -- 70
+if$ -- 1488
+int.to.chr$ -- 3
+int.to.str$ -- 27
+missing$ -- 26
+newline$ -- 153
+num.names$ -- 66
+pop$ -- 270
 preamble$ -- 1
-purify$ -- 16
+purify$ -- 26
 quote$ -- 0
-skip$ -- 165
+skip$ -- 256
 stack$ -- 0
-substring$ -- 49
-swap$ -- 31
+substring$ -- 71
+swap$ -- 46
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 112
-warning$ -- 15
-while$ -- 29
+type$ -- 182
+warning$ -- 39
+while$ -- 45
 width$ -- 0
-write$ -- 218
-(There were 16 warnings)
+write$ -- 333
+(There were 40 warnings)

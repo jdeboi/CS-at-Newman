@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  20 DEC 2015 19:48
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  6 MAR 2016 13:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -710,25 +710,29 @@ LaTeX Info: Redefining \cite on input line 694.
 \c@NAT@ctr=\count134
 )
 Package hyperref Info: Option `colorlinks' set `true' on input line 35.
- (./main.aux)
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/multirow/multirow.sty
+\bigstrutjot=\dimen150
+)
+(./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
 Package caption Info: listings package is loaded.
@@ -743,20 +747,20 @@ Package caption Info: End \AtBeginDocument code.
 (/usr/local/texlive/2015/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count135
-\scratchdimen=\dimen150
+\scratchdimen=\dimen151
 \scratchbox=\box35
 \nofMPsegments=\count136
 \nofMParguments=\count137
 \everyMPshowfont=\toks34
 \MPscratchCnt=\count138
-\MPscratchDim=\dimen151
+\MPscratchDim=\dimen152
 \MPnumerator=\count139
 \makeMPintoPDFobject=\count140
 \everyMPtoPDFconversion=\toks35
 )
 \c@lstlisting=\count141
 \AtBeginShipoutBox=\box36
-Package hyperref Info: Link coloring ON on input line 49.
+Package hyperref Info: Link coloring ON on input line 65.
  (/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 
@@ -765,19 +769,19 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count142
 )
-LaTeX Info: Redefining \ref on input line 49.
-LaTeX Info: Redefining \pageref on input line 49.
-LaTeX Info: Redefining \nameref on input line 49.
+LaTeX Info: Redefining \ref on input line 65.
+LaTeX Info: Redefining \pageref on input line 65.
+LaTeX Info: Redefining \nameref on input line 65.
 
 (./main.out) (./main.out)
 \@outlinefile=\write3
 \openout3 = `main.out'.
 
- <Pictures/logo.jpg, id=152, 128.48pt x 128.48pt>
+ <Pictures/logo.jpg, id=136, 128.48pt x 128.48pt>
 File: Pictures/logo.jpg Graphic file (type jpg)
 
 <use Pictures/logo.jpg>
-Package pdftex.def Info: Pictures/logo.jpg used on input line 76.
+Package pdftex.def Info: Pictures/logo.jpg used on input line 92.
 (pdftex.def)             Requested size: 64.23984pt x 64.23984pt.
  [1
 
@@ -791,10 +795,8 @@ res/logo.jpg>] (./Chapters/Foreword.tex
 ) (./Chapters/Note.tex [1
 
 ]
-------------------------------------------------------------------------------
- 0 Self-Consistency...
-------------------------------------------------------------------------------
 LaTeX Font Info:    Try loading font information for U+msa on input line 5.
+
 (/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
@@ -833,54 +835,127 @@ Chapter 2.
 ------------------------------------------------------------------------------
  2 Research
 ------------------------------------------------------------------------------
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 19.
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 19.
+ [5
 
-Underfull \hbox (badness 10000) in paragraph at lines 14--23
+] [6] [7]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 63.
+
+[8]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 91.
+
+[9]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 118.
+
+
+Overfull \hbox (32.78026pt too wide) in paragraph at lines 122--133
+ [][] 
+ []
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 136.
+
+
+Underfull \hbox (badness 4819) in paragraph at lines 144--144
+[]|\OT1/cmr/m/n/9 Principles of In-for-ma-
+ []
+
+
+Underfull \hbox (badness 1466) in paragraph at lines 144--144
+[]|\OT1/cmr/m/n/9 Pre-AP Com-puter Sci-
+ []
+
+
+Underfull \hbox (badness 1466) in paragraph at lines 144--144
+[]|\OT1/cmr/m/n/9 Pre-AP Com-puter Sci-
+ []
+
+
+Underfull \hbox (badness 4819) in paragraph at lines 145--145
+[]|\OT1/cmr/m/n/9 Principles of In-for-ma-
+ []
+
+
+Underfull \hbox (badness 2229) in paragraph at lines 145--145
+\OT1/cmr/m/n/9 tions or Practicum in
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 146--146
+[]|\OT1/cmr/m/n/9 Engineering Draft-ing
+ []
+
+
+Underfull \hbox (badness 1259) in paragraph at lines 147--147
+[]|\OT1/cmr/m/n/9 Engineering Math-e-mat-
+ []
+
+[10]
+
+Package natbib Warning: Citation `pomonacs1' on page 11 undefined on input line
+ 156.
+
+
+Package natbib Warning: Citation `pomonacs1' on page 11 undefined on input line
+ 158.
+
+
+Package natbib Warning: Citation `pomona' on page 11 undefined on input line 15
+9.
+
+[11]
+Underfull \hbox (badness 10000) in paragraph at lines 180--181
 
  []
 
-[5
-
-]
-
-LaTeX Warning: Reference `AppendixISTE' on page 6 undefined on input line 32.
-
-[6]
-Underfull \hbox (badness 1389) in paragraph at lines 71--71
+[12]
+Underfull \hbox (badness 1389) in paragraph at lines 221--221
 []|\OT1/cmr/m/n/10.95 Encourages a broader par-tic-i-pa-tion in
  []
 
 
-Underfull \hbox (badness 1168) in paragraph at lines 73--73
+Underfull \hbox (badness 1168) in paragraph at lines 223--223
 \OT1/cmr/m/n/10.95 dur-ing the course to demon-strate the
  []
 
-[7]) (./Chapters/Chapter2.tex [8]
+[13] [14]) (./Chapters/Chapter2.tex [15] [16]
 Chapter 3.
 ------------------------------------------------------------------------------
  3 Newman Past and Present
 ------------------------------------------------------------------------------
+[17
 
-Overfull \hbox (1.97209pt too wide) in paragraph at lines 16--17
-[]\OT1/cmr/m/n/10.95 rise of CD-ROMS and the in-ter-net, schools shifted em-pha
--sis from pro-gram-ming to software-
- []
-
-) (./Chapters/Chapter3.tex [9
-
-]
+] [18] [19] [20]) (./Chapters/Chapter3.tex [21]
 Chapter 4.
 ------------------------------------------------------------------------------
  4 Recommendations
 ------------------------------------------------------------------------------
-[10
+[22
 
-] [11]) (./Appendices/AppendixA.tex [12]
+]
+
+LaTeX Warning: Reference `AppendixIntro' on page 23 undefined on input line 44.
+
+
+) (./Appendices/AppendixTools.tex [23] [24]
 Appendix A.
 ------------------------------------------------------------------------------
- A Appendix A: Coding Tools \& Curriculum
+ A Appendix: Online Curriculum
 ------------------------------------------------------------------------------
 
-Package natbib Warning: Citation `codeapps' on page 13 undefined on input line 
+Package natbib Warning: Citation `codeapps' on page 25 undefined on input line 
 9.
 
 
@@ -905,21 +980,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 13--13
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 18--18
-[]|\OT1/cmr/m/n/9 An iPad app that in-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 18--18
-\OT1/cmr/m/n/9 tro-duces cod-ing co-cepts
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 19--19
-[]|\OT1/cmr/m/n/9 In-person ed-u-ca-tor
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 20--20
 []|[][]\OT1/cmr/m/n/9 Code Stu-dio
  []
 
@@ -934,38 +994,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 21--21
  []
 
 
-Underfull \hbox (badness 3612) in paragraph at lines 22--22
-\OT1/cmr/m/n/9 struc-tured way of teach-
- []
-
-
-Underfull \hbox (badness 1960) in paragraph at lines 22--22
-\OT1/cmr/m/n/9 room man-age-ment, les-son
+Underfull \hbox (badness 10000) in paragraph at lines 22--22
+[]|\OT1/cmr/m/n/9 An iPad app that in-
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 22--22
-[]|\OT1/cmr/m/n/9 FREE
+\OT1/cmr/m/n/9 tro-duces cod-ing co-cepts
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 22--22
-\OT1/cmr/m/n/9 tu-to-ri-als.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 22--22
-\OT1/cmr/m/n/9 $399
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 22--22
-\OT1/cmr/m/n/9 /class,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 22--22
-\OT1/cmr/m/n/9 $2,000
+Underfull \hbox (badness 10000) in paragraph at lines 23--23
+[]|\OT1/cmr/m/n/9 In-person ed-u-ca-tor
  []
 
 
@@ -979,6 +1019,41 @@ Underfull \hbox (badness 1824) in paragraph at lines 24--24
  []
 
 
+Underfull \hbox (badness 3612) in paragraph at lines 25--25
+\OT1/cmr/m/n/9 struc-tured way of teach-
+ []
+
+
+Underfull \hbox (badness 1960) in paragraph at lines 25--25
+\OT1/cmr/m/n/9 room man-age-ment, les-son
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--25
+[]|\OT1/cmr/m/n/9 FREE
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--25
+\OT1/cmr/m/n/9 tu-to-ri-als.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--25
+\OT1/cmr/m/n/9 $399
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--25
+\OT1/cmr/m/n/9 /class,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--25
+\OT1/cmr/m/n/9 $2,000
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 30--30
 []|\OT1/cmr/m/n/9 Teach al-ge-bra through
  []
@@ -989,63 +1064,63 @@ Underfull \hbox (badness 10000) in paragraph at lines 30--30
  []
 
 
-Underfull \hbox (badness 3635) in paragraph at lines 31--31
+Underfull \hbox (badness 8075) in paragraph at lines 31--31
+[]|\OT1/cmr/m/n/9 In-person and on-
+ []
+
+
+Underfull \hbox (badness 3635) in paragraph at lines 32--32
 []|\OT1/cmr/m/n/9 Year-long In-tro-duc-tion to
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 31--31
+Underfull \hbox (badness 10000) in paragraph at lines 32--32
 []|\OT1/cmr/m/n/9 Online PD for
  []
 
 
-Underfull \hbox (badness 1028) in paragraph at lines 31--31
+Underfull \hbox (badness 1028) in paragraph at lines 32--32
 \OT1/cmr/m/n/9 teach-ing in-tro com-
  []
 
 
-Underfull \hbox (badness 7869) in paragraph at lines 31--31
+Underfull \hbox (badness 7869) in paragraph at lines 32--32
 \OT1/cmr/m/n/9 puter sci-ence, 30-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 31--31
+Underfull \hbox (badness 10000) in paragraph at lines 32--32
 \OT1/cmr/m/n/9 40 hour course,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 31--31
+Underfull \hbox (badness 10000) in paragraph at lines 32--32
 []|\OT1/cmr/m/n/9 FREE
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 31--31
+Underfull \hbox (badness 10000) in paragraph at lines 32--32
 \OT1/cmr/m/n/9 In-tro;
  []
 
 
-Underfull \hbox (badness 1648) in paragraph at lines 31--31
+Underfull \hbox (badness 1648) in paragraph at lines 32--32
 \OT1/cmr/m/n/9 Pro ver-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 31--31
+Underfull \hbox (badness 10000) in paragraph at lines 32--32
 \OT1/cmr/m/n/9 sion is
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 31--31
+Underfull \hbox (badness 10000) in paragraph at lines 32--32
 \OT1/cmr/m/n/9 $2000/
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 31--31
+Underfull \hbox (badness 10000) in paragraph at lines 32--32
 \OT1/cmr/m/n/9 sec-tion
- []
-
-
-Underfull \hbox (badness 8075) in paragraph at lines 32--32
-[]|\OT1/cmr/m/n/9 In-person and on-
  []
 
 
@@ -1069,78 +1144,78 @@ Underfull \hbox (badness 1406) in paragraph at lines 33--33
  []
 
 
-Underfull \hbox (badness 2418) in paragraph at lines 34--34
-[]|[][]\OT1/cmr/m/n/9 Project Lead
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 34--34
-[]|\OT1/cmr/m/n/9 $750
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 35--35
-[]|\OT1/cmr/m/n/9 In-person ed-u-ca-tor
- []
-
-
-Underfull \hbox (badness 3612) in paragraph at lines 36--36
-\OT1/cmr/m/n/9 struc-tured way of teach-
- []
-
-
-Underfull \hbox (badness 1960) in paragraph at lines 36--36
-\OT1/cmr/m/n/9 room man-age-ment, les-son
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 36--36
-[]|\OT1/cmr/m/n/9 Free
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 36--36
-\OT1/cmr/m/n/9 tu-to-ri-als.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 36--36
-\OT1/cmr/m/n/9 $399
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 36--36
-\OT1/cmr/m/n/9 /class,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 36--36
-\OT1/cmr/m/n/9 $2,000
- []
-
-
-Underfull \hbox (badness 6001) in paragraph at lines 37--37
-\OT1/cmr/m/n/9 i-lar to Scratch) sup-port
- []
-
-
-Underfull \hbox (badness 1824) in paragraph at lines 37--37
-\OT1/cmr/m/n/9 pro-ce-dures, and con-tin-u-a-
- []
-
-
-Underfull \hbox (badness 2903) in paragraph at lines 38--38
+Underfull \hbox (badness 2903) in paragraph at lines 34--34
 []|\OT1/cmr/m/n/9 Courses in Karel cod-ing,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 38--38
+Underfull \hbox (badness 10000) in paragraph at lines 34--34
 []|\OT1/cmr/m/n/9 $899
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 39--39
+Underfull \hbox (badness 10000) in paragraph at lines 35--35
 []|\OT1/cmr/m/n/9 Free video-led cod-ing
+ []
+
+
+Underfull \hbox (badness 2418) in paragraph at lines 36--36
+[]|[][]\OT1/cmr/m/n/9 Project Lead
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 36--36
+[]|\OT1/cmr/m/n/9 $750
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--37
+[]|\OT1/cmr/m/n/9 In-person ed-u-ca-tor
+ []
+
+
+Underfull \hbox (badness 6001) in paragraph at lines 38--38
+\OT1/cmr/m/n/9 i-lar to Scratch) sup-port
+ []
+
+
+Underfull \hbox (badness 1824) in paragraph at lines 38--38
+\OT1/cmr/m/n/9 pro-ce-dures, and con-tin-u-a-
+ []
+
+
+Underfull \hbox (badness 3612) in paragraph at lines 39--39
+\OT1/cmr/m/n/9 struc-tured way of teach-
+ []
+
+
+Underfull \hbox (badness 1960) in paragraph at lines 39--39
+\OT1/cmr/m/n/9 room man-age-ment, les-son
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--39
+[]|\OT1/cmr/m/n/9 Free
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--39
+\OT1/cmr/m/n/9 tu-to-ri-als.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--39
+\OT1/cmr/m/n/9 $399
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--39
+\OT1/cmr/m/n/9 /class,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--39
+\OT1/cmr/m/n/9 $2,000
  []
 
 
@@ -1194,153 +1269,173 @@ Underfull \hbox (badness 10000) in paragraph at lines 45--45
  []
 
 
-Underfull \hbox (badness 6493) in paragraph at lines 46--46
-\OT1/cmr/m/n/9 SQL, Python, Ruby on
+Underfull \hbox (badness 10000) in paragraph at lines 46--46
+[]|[][]\OT1/cmr/m/n/9 Code
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 46--46
-\OT1/cmr/m/n/9 Rails, Git, HTM-L/CSS,
+[]|\OT1/cmr/m/n/9 In-browser ex-er-cises and
  []
 
 
-Underfull \hbox (badness 3635) in paragraph at lines 47--47
-[]|\OT1/cmr/m/n/9 Year-long In-tro-duc-tion to
+Underfull \hbox (badness 10000) in paragraph at lines 46--46
+\OT1/cmr/m/n/9 courses in JavaScript,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 47--47
-[]|\OT1/cmr/m/n/9 Online PD for
+Underfull \hbox (badness 10000) in paragraph at lines 46--46
+\OT1/cmr/m/n/9 In-tro-duc-tory courses are
  []
 
 
-Underfull \hbox (badness 1028) in paragraph at lines 47--47
-\OT1/cmr/m/n/9 teach-ing in-tro com-
- []
-
-
-Underfull \hbox (badness 7869) in paragraph at lines 47--47
-\OT1/cmr/m/n/9 puter sci-ence, 30-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 47--47
-\OT1/cmr/m/n/9 40 hour course,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 47--47
+Underfull \hbox (badness 10000) in paragraph at lines 46--46
 []|\OT1/cmr/m/n/9 FREE
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 47--47
-\OT1/cmr/m/n/9 In-
+Underfull \hbox (badness 10000) in paragraph at lines 46--46
+\OT1/cmr/m/n/9 in-tro;
  []
 
 
-Overfull \hbox (5.71869pt too wide) in paragraph at lines 47--47
-\OT1/cmr/m/n/9 $2000/sec-
+Underfull \hbox (badness 10000) in paragraph at lines 46--46
+\OT1/cmr/m/n/9 in-ter-
  []
 
 
-Overfull \hbox (0.54927pt too wide) in paragraph at lines 47--47
-\OT1/cmr/m/n/9 tion/year| 
+Underfull \hbox (badness 10000) in paragraph at lines 46--46
+\OT1/cmr/m/n/9 me-di-ate
  []
 
 
-Underfull \hbox (badness 1147) in paragraph at lines 48--48
+Underfull \hbox (badness 6348) in paragraph at lines 46--46
+\OT1/cmr/m/n/9 and ad-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--46
+\OT1/cmr/m/n/9 vanced
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--46
+\OT1/cmr/m/n/9 courses
+ []
+
+
+Underfull \hbox (badness 5533) in paragraph at lines 46--46
+\OT1/cmr/m/n/9 for $29-
+ []
+
+
+Underfull \hbox (badness 1147) in paragraph at lines 47--47
 \OT1/cmr/m/n/9 course with an AP exam
  []
 
 
-Underfull \hbox (badness 8075) in paragraph at lines 48--48
+Underfull \hbox (badness 8075) in paragraph at lines 47--47
 []|\OT1/cmr/m/n/9 In-person and on-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 49--49
-[]|\OT1/cmr/m/n/9 Online PD, com-
+Underfull \hbox (badness 6493) in paragraph at lines 48--48
+\OT1/cmr/m/n/9 SQL, Python, Ruby on
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--48
+\OT1/cmr/m/n/9 Rails, Git, HTM-L/CSS,
+ []
+
+
+Underfull \hbox (badness 3635) in paragraph at lines 49--49
+[]|\OT1/cmr/m/n/9 Year-long In-tro-duc-tion to
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 49--49
-\OT1/cmr/m/n/9 mu-nity and con-
+[]|\OT1/cmr/m/n/9 Online PD for
+ []
+
+
+Underfull \hbox (badness 1028) in paragraph at lines 49--49
+\OT1/cmr/m/n/9 teach-ing in-tro com-
+ []
+
+
+Underfull \hbox (badness 7869) in paragraph at lines 49--49
+\OT1/cmr/m/n/9 puter sci-ence, 30-
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 49--49
-\OT1/cmr/m/n/9 tent/tech-ni-cal/pro-
+\OT1/cmr/m/n/9 40 hour course,
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 49--49
-\OT1/cmr/m/n/9 able, $2,200 per
+[]|\OT1/cmr/m/n/9 FREE
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--49
+\OT1/cmr/m/n/9 In-
+ []
+
+
+Overfull \hbox (5.71869pt too wide) in paragraph at lines 49--49
+\OT1/cmr/m/n/9 $2000/sec-
+ []
+
+
+Overfull \hbox (0.54927pt too wide) in paragraph at lines 49--49
+\OT1/cmr/m/n/9 tion/year| 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 50--50
+[]|\OT1/cmr/m/n/9 Online PD, com-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\OT1/cmr/m/n/9 mu-nity and con-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\OT1/cmr/m/n/9 tent/tech-ni-cal/pro-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\OT1/cmr/m/n/9 able, $2,200 per
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--51
 []|\OT1/cmr/m/n/9 3-day, in-person
  []
 
 
-Underfull \hbox (badness 3735) in paragraph at lines 50--50
+Underfull \hbox (badness 3735) in paragraph at lines 51--51
 \OT1/cmr/m/n/9 train-ing and on-go-
  []
 
 
-Underfull \hbox (badness 2035) in paragraph at lines 50--50
+Underfull \hbox (badness 2035) in paragraph at lines 51--51
 \OT1/cmr/m/n/9 ing on-line PD, fee
  []
 
 
-Underfull \hbox (badness 1406) in paragraph at lines 50--50
+Underfull \hbox (badness 1406) in paragraph at lines 51--51
 \OT1/cmr/m/n/9 in-cluded in stu-dent
  []
 
 
-Overfull \hbox (11.62837pt too wide) in paragraph at lines 50--50
+Overfull \hbox (11.62837pt too wide) in paragraph at lines 51--51
 []|\OT1/cmr/m/n/9 $75/student| 
- []
-
-
-Underfull \hbox (badness 1226) in paragraph at lines 51--51
-\OT1/cmr/m/n/9 pro-gram-ming lan-guage for
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 51--51
-[]|\OT1/cmr/m/n/9 Online, re-gional
- []
-
-
-Underfull \hbox (badness 1242) in paragraph at lines 51--51
-\OT1/cmr/m/n/9 in-person of-fered in
- []
-
-
-Underfull \hbox (badness 2443) in paragraph at lines 51--51
-\OT1/cmr/m/n/9 CT, MA, NH and
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 51--51
-\OT1/cmr/m/n/9 avail-able), FREE,
- []
-
-
-Underfull \hbox (badness 2418) in paragraph at lines 52--52
-[]|[][]\OT1/cmr/m/n/9 Project Lead
- []
-
-
-Underfull \hbox (badness 5711) in paragraph at lines 52--52
-\OT1/cmr/m/n/9 train-ing, $1200 or
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 52--52
-[]|\OT1/cmr/m/n/9 $2000
  []
 
 
@@ -1369,136 +1464,181 @@ Underfull \hbox (badness 6978) in paragraph at lines 53--53
  []
 
 
-Underfull \hbox (badness 2903) in paragraph at lines 54--54
-[]|\OT1/cmr/m/n/9 Courses in Karel cod-ing,
+Underfull \hbox (badness 1226) in paragraph at lines 54--54
+\OT1/cmr/m/n/9 pro-gram-ming lan-guage for
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 54--54
+[]|\OT1/cmr/m/n/9 Online, re-gional
+ []
+
+
+Underfull \hbox (badness 1242) in paragraph at lines 54--54
+\OT1/cmr/m/n/9 in-person of-fered in
+ []
+
+
+Underfull \hbox (badness 2443) in paragraph at lines 54--54
+\OT1/cmr/m/n/9 CT, MA, NH and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--54
+\OT1/cmr/m/n/9 avail-able), FREE,
+ []
+
+
+Underfull \hbox (badness 2903) in paragraph at lines 55--55
+[]|\OT1/cmr/m/n/9 Courses in Karel cod-ing,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--55
 []|\OT1/cmr/m/n/9 $899
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 56--56
-[]|[][]\OT1/cmr/m/n/9 Code
+Underfull \hbox (badness 2418) in paragraph at lines 56--56
+[]|[][]\OT1/cmr/m/n/9 Project Lead
+ []
+
+
+Underfull \hbox (badness 5711) in paragraph at lines 56--56
+\OT1/cmr/m/n/9 train-ing, $1200 or
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 56--56
-[]|\OT1/cmr/m/n/9 In-browser ex-er-cises and
+[]|\OT1/cmr/m/n/9 $2000
  []
 
+[25
 
-Underfull \hbox (badness 10000) in paragraph at lines 56--56
-\OT1/cmr/m/n/9 courses in JavaScript,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 56--56
-\OT1/cmr/m/n/9 In-tro-duc-tory courses are
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 56--56
-[]|\OT1/cmr/m/n/9 FREE
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 56--56
-\OT1/cmr/m/n/9 in-tro;
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 56--56
-\OT1/cmr/m/n/9 in-ter-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 56--56
-\OT1/cmr/m/n/9 me-di-ate
- []
-
-
-Underfull \hbox (badness 6348) in paragraph at lines 56--56
-\OT1/cmr/m/n/9 and ad-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 56--56
-\OT1/cmr/m/n/9 vanced
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 56--56
-\OT1/cmr/m/n/9 courses
- []
-
-
-Underfull \hbox (badness 5533) in paragraph at lines 56--56
-\OT1/cmr/m/n/9 for $29-
- []
-
-[13
-
-] [14] [15] [16]) (./Appendices/AppendixB.tex [17]
+] [26] [27] [28]) (./Appendices/AppendixHardware.tex [29]
 Appendix B.
 ------------------------------------------------------------------------------
- B Appendix B: Hardware Tools
+ B Appendix: Hardware Tools
 ------------------------------------------------------------------------------
-) (./Appendices/AppendixC.tex [18
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--12
+[]|\OT1/cmr/m/n/9 Arduino
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--12
+\OT1/cmr/m/n/9 (C++),
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--12
+[]|\OT1/cmr/m/n/9 Programmable tool for
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--12
+\OT1/cmr/m/n/9 de-vel-op-ing in-ter-ac-tive
+ []
+
+
+Underfull \hbox (badness 3724) in paragraph at lines 14--14
+[]|[][]\OT1/cmr/m/n/9 LEGO Mind-storms NX-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--14
+[]|\OT1/cmr/m/n/9 Programmable LEGO
+ []
+
+
+Underfull \hbox (badness 2644) in paragraph at lines 14--14
+\OT1/cmr/m/n/9 robots with a va-ri-ety of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--16
+[]|\OT1/cmr/m/n/9 Arduino,
+ []
+
+
+Underfull \hbox (badness 3108) in paragraph at lines 16--16
+\OT1/cmr/m/n/9 that in-te-grates well with
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--19
+[]|\OT1/cmr/m/n/9 LED lit, pro-grammable
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--20
+[]|\OT1/cmr/m/n/9 A rich, pro-grammable
+ []
+
+) (./Appendices/AppendixCSTA.tex [30
 
 ]
 Appendix C.
 ------------------------------------------------------------------------------
- C Appendix C: CSTA Benchmarks
+ C Appendix: CSTA Benchmarks
 ------------------------------------------------------------------------------
-[19
+[31
 
-] [20] [21] [22] [23] [24] [25]) (./Appendices/AppendixD.tex [26]
+] [32] [33] [34] [35] [36] [37]) (./Appendices/AppendixISTE.tex [38]
 Appendix D.
 ------------------------------------------------------------------------------
- D Appendix D: NGSS Standards
+ D Appendix: ISTE Standards
 ------------------------------------------------------------------------------
-[27
+[39
 
-]) [28]
+]) (./Appendices/AppendixNGSS.tex [40]
+Appendix E.
+------------------------------------------------------------------------------
+ E Appendix: NGSS Standards
+------------------------------------------------------------------------------
+[41
+
+]) (./Appendices/AppendixIntro.tex [42]
+Appendix F.
+------------------------------------------------------------------------------
+ F Appendix: Introductory CS Syllabi
+------------------------------------------------------------------------------
+) [43
+
+]
 ------------------------------------------------------------------------------
  Bibliography
 ------------------------------------------------------------------------------
 (./main.bbl
-Underfull \hbox (badness 4832) in paragraph at lines 27--31
+Underfull \hbox (badness 4832) in paragraph at lines 34--38
 []\OT1/cmr/m/n/9 Moving be-yond com-puter lit-er-acy: Why schools should teach 
 com-puter sci-ence.  \OT1/cmr/m/it/9 Na-tional
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 27--31
+Underfull \hbox (badness 10000) in paragraph at lines 34--38
 \OT1/cmr/m/it/9 Cen-ter for Women and In-for-ma-tion Tech-nol-ogy\OT1/cmr/m/n/9
  .  URL [][]$\OT1/cmtt/m/n/9 https : / / www . ncwit . org / resources /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 33--39
+Underfull \hbox (badness 10000) in paragraph at lines 40--46
 \OT1/cmtt/m/n/9 press _ releases / 2014 / dec / mayor-[]emanuel-[]announces-[]m
 ajor-[]gains-[]in-[]computer-[]science-[]4-[]all-[]pr .
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 41--46
+Underfull \hbox (badness 10000) in paragraph at lines 48--53
 []\OT1/cmr/m/n/9 Y. Koh.  New ed-u-ca-tion bill to get more cod-ing in class-ro
 oms.  \OT1/cmr/m/it/9 Wall
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 41--46
+Underfull \hbox (badness 10000) in paragraph at lines 48--53
 \OT1/cmr/m/it/9 Street Jour-nal\OT1/cmr/m/n/9 , De-cem-ber 2015.  URL [][]$\OT1
 /cmtt/m/n/9 http : / / blogs . wsj . com / digits / 2015 / 12 / 10 /
  []
 
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 82.
-(/usr/local/texlive/2015/texmf-dist/tex/latex/base/omscmr.fd
-File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
-)
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <9> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 82.
 
@@ -1513,11 +1653,24 @@ Underfull \hbox (badness 10000) in paragraph at lines 81--86
 rd . org / sites / default / files / publications / 2012 / 7 /
  []
 
-[29
+
+Underfull \hbox (badness 1097) in paragraph at lines 93--97
+[]\OT1/cmr/m/n/9 Best stem high schools.  \OT1/cmr/m/it/9 U.S. News Ed-u-ca-tio
+n\OT1/cmr/m/n/9 , 2015.  URL [][]$\OT1/cmtt/m/n/9 http : / / www . usnews . com
+ / education /
+ []
+
+[44
 
 
 ]
-Underfull \hbox (badness 1642) in paragraph at lines 109--114
+Underfull \hbox (badness 2302) in paragraph at lines 135--138
+[]\OT1/cmr/m/n/9 International So-ci-ety for Tech-nol-ogy Ed-u-ca-tion (ISTE). 
+ URL [][]$\OT1/cmtt/m/n/9 http : / / www . iste . org / standards /
+ []
+
+
+Underfull \hbox (badness 1642) in paragraph at lines 165--170
 []\OT1/cmr/m/n/9 Next Gen-er-a-tion Sci-ence Stan-dards.  En-gi-neer-ing de-sig
 n stan-dards.  2015.  URL [][]$\OT1/cmtt/m/n/9 http : / / www .
  []
@@ -1526,28 +1679,28 @@ n stan-dards.  2015.  URL [][]$\OT1/cmtt/m/n/9 http : / / www .
 
 Package natbib Warning: There were undefined citations.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 161.
-[30]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 161.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 178.
+[45]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 178.
  (./main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 161.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 161.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 178.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 178.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: A46787C9F340AC6E6827C043C011AEB7;5992.
+(rerunfilecheck)             Checksum: F41AD96DAE864CAA9BE9B0BDA6267461;5316.
 
 
 LaTeX Warning: There were undefined references.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 161.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 178.
  ) 
 Here is how much of TeX's memory you used:
- 13709 strings out of 493089
- 190678 string characters out of 6134842
- 306289 words of memory out of 5000000
- 16844 multiletter control sequences out of 15000+600000
+ 13832 strings out of 493089
+ 192239 string characters out of 6134842
+ 306517 words of memory out of 5000000
+ 16890 multiletter control sequences out of 15000+600000
  16335 words of font info for 60 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 49i,12n,54p,1183b,466s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 49i,13n,54p,1183b,575s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 </usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></
@@ -1557,16 +1710,17 @@ usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><
 sr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr
 /local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/lo
 cal/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local
-/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/t
-exlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/te
-xlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/tex
-live/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/local/texli
-ve/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/local/texlive
-/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
-Output written on main.pdf (35 pages, 302295 bytes).
+/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/
+texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/te
+xlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/tex
+live/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texl
+ive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/local/texliv
+e/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/local/texlive/
+2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
+Output written on main.pdf (50 pages, 356845 bytes).
 PDF statistics:
- 619 PDF objects out of 1000 (max. 8388607)
- 557 compressed objects within 6 object streams
- 127 named destinations out of 1000 (max. 500000)
- 302 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 814 PDF objects out of 1000 (max. 8388607)
+ 730 compressed objects within 8 object streams
+ 194 named destinations out of 1000 (max. 500000)
+ 270 words of extra memory for PDF output out of 10000 (max. 10000000)
 

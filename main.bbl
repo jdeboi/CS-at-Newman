@@ -1,4 +1,4 @@
-\begin{thebibliography}{16}
+\begin{thebibliography}{26}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -11,6 +11,13 @@ K.~Prottsman.
 \newblock \emph{Huffington Post}, April 2015.
 \newblock URL
   \url{http://www.huffingtonpost.com/kiki-prottsman/coding-vs-programming-bat_b_7042816.html}.
+
+\bibitem[Yasmin B.~Kafai(2013)]{backtoschool}
+Quinn~Burke Yasmin B.~Kafai.
+\newblock Computer programming goes back to school.
+\newblock \emph{The Phi Delta Kappan}, 95\penalty0 (1):\penalty0 61--65, 2013.
+\newblock ISSN 00317217.
+\newblock URL \url{http://www.jstor.org/stable/23617761}.
 
 \bibitem[for Computational~Thinking()]{cmct}
 Carnegie Mellon~Center for Computational~Thinking.
@@ -70,13 +77,6 @@ Gallup.
 \newblock 2014.
 \newblock URL \url{http://csedu.gallup.com/}.
 
-\bibitem[Yasmin B.~Kafai(2013)]{backtoschool}
-Quinn~Burke Yasmin B.~Kafai.
-\newblock Computer programming goes back to school.
-\newblock \emph{The Phi Delta Kappan}, 95\penalty0 (1):\penalty0 61--65, 2013.
-\newblock ISSN 00317217.
-\newblock URL \url{http://www.jstor.org/stable/23617761}.
-
 \bibitem[Board(2007)]{apfive}
 College Board.
 \newblock Ap® students in college: An analysis of five-year academic careers.
@@ -84,19 +84,45 @@ College Board.
 \newblock URL
   \url{http://research.collegeboard.org/sites/default/files/publications/2012/7/researchreport-2007-4-ap-students-college-analysis-five-year-academic-careers.pdf}.
 
-\bibitem[Board(2015)]{APcomp}
-College Board.
-\newblock Ap computer science principles curriculum framework.
-\newblock \emph{Advances in AP}, December 2015.
-\newblock URL
-  \url{https://advancesinap.collegeboard.org/stem/computer-science-principles/course-details}.
+\bibitem[Exchange()]{index}
+Independent School~Data Exchange.
+\newblock Index mission statement.
+\newblock URL \url{http://www.indexgroups.org/about/}.
 
-\bibitem[Bell(2015)]{edsurgetab}
-K.~Bell.
-\newblock A beginner’s guide to bringing coding into the classroom.
-\newblock \emph{edSurge}, November 2015.
+\bibitem[usn(2015)]{usnews}
+Best stem high schools.
+\newblock \emph{U.S. News Education}, 2015.
 \newblock URL
-  \url{https://www.edsurge.com/news/2015-11-30-a-beginner-s-guide-to-bringing-coding-into-the-classroom}.
+  \url{http://www.usnews.com/education/best-high-schools/national-rankings/stem}.
+
+\bibitem[for Science and Technology()]{tjreq}
+Thomas Jefferson~HS for Science and Technology.
+\newblock Computer science at thomas jefferson.
+\newblock URL
+  \url{https://www.tjhsst.edu/research-academics/math-cs/computer-science/index.html}.
+
+\bibitem[School({\natexlab{a}})]{stuy}
+Stuyvesant~High School.
+\newblock Mathematics.
+\newblock {\natexlab{a}}.
+\newblock URL
+  \url{http://stuy.enschool.org/apps/pages/index.jsp?uREC_ID=126659&type=d&termREC_ID=&pREC_ID=253269}.
+
+\bibitem[School({\natexlab{b}})]{hths}
+High Technology~High School.
+\newblock Hths courses.
+\newblock {\natexlab{b}}.
+\newblock URL \url{http://www.hths.mcvsd.org/downloads}.
+
+\bibitem[edi(2015)]{edisonacad}
+Edison academy: Electronics and computer engineering technology (ecet) program.
+\newblock 2015.
+\newblock URL \url{http://www.mcvts.net/Page/2080}.
+
+\bibitem[for Integrated~Technology()]{westside}
+Westside High School~Magnet for Integrated~Technology.
+\newblock Computing science and engineering.
+\newblock URL \url{http://www.houstonisd.org/Page/73698}.
 
 \bibitem[(CSTA)(2011)]{csta}
 Computer Science Teachers~Association (CSTA).
@@ -105,10 +131,40 @@ Computer Science Teachers~Association (CSTA).
 \newblock URL
   \url{http://www.csta.acm.org/Curriculum/sub/CurrFiles/CSTA_K-12_CSS.pdf}.
 
-\bibitem[Standards(2015)]{ngss}
+\bibitem[for Technology Education~(ISTE)()]{iste}
+International~Society for Technology Education~(ISTE).
+\newblock URL
+  \url{http://www.iste.org/standards/iste-standards/standards-for-computer-science-educators}.
+
+\bibitem[Board(2015)]{APcomp}
+College Board.
+\newblock Ap computer science principles curriculum framework.
+\newblock \emph{Advances in AP}, December 2015.
+\newblock URL
+  \url{https://advancesinap.collegeboard.org/stem/computer-science-principles/course-details}.
+
+\bibitem[Standards(2015{\natexlab{a}})]{ngsss}
+Next Generation~Science Standards.
+\newblock The need for new science standards.
+\newblock 2015{\natexlab{a}}.
+\newblock URL \url{http://www.nextgenscience.org/overview-0}.
+
+\bibitem[Tynker()]{tynker}
+Tynker.
+\newblock Scope and sequence.
+\newblock URL \url{https://www.tynker.com/school/courses/}.
+
+\bibitem[Bell(2015)]{edsurgetab}
+K.~Bell.
+\newblock A beginner’s guide to bringing coding into the classroom.
+\newblock \emph{edSurge}, November 2015.
+\newblock URL
+  \url{https://www.edsurge.com/news/2015-11-30-a-beginner-s-guide-to-bringing-coding-into-the-classroom}.
+
+\bibitem[Standards(2015{\natexlab{b}})]{ngss}
 Next Generation~Science Standards.
 \newblock Engineering design standards.
-\newblock 2015.
+\newblock 2015{\natexlab{b}}.
 \newblock URL
   \url{http://www.nextgenscience.org/search-standards-dci?field_idea_tid%5B%5D=113}.
 

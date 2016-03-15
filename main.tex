@@ -44,6 +44,22 @@
 \fancyhf{}
 \cfoot{\footnotesize{\href{http://www.newmanschool.org/}{Isidore Newman School} \begin{math}\cdot\end{math} 1903 Jefferson Ave \begin{math}\cdot\end{math} New Orleans, LA 70115}}
 \renewcommand{\footrulewidth}{.5pt}
+
+\usepackage{multirow}
+\newenvironment{blockquote}{%
+  \par%
+  \medskip
+  \leftskip=4em\rightskip=4em%
+  \noindent\ignorespaces}{%
+  \par\medskip}
+%--------------------------
+% hide from TOC
+%--------------------------
+\newcommand{\hiddensubsection}[1]{
+    \stepcounter{subsection}
+    \subsection*{\arabic{chapter}.\arabic{section}.\arabic{subsection}\hspace{1em}{#1}}
+}
+
 %--------------------------
 
 \begin{document}
@@ -82,7 +98,7 @@
 \HRule \\[1.5cm] % Horizontal line
 \large
 \emph{\authornames} \\ 
-\emph{\supname} \\
+%\emph{\supname} \\
 \bigskip
 \bigskip 
 \bigskip
@@ -137,11 +153,12 @@
 % Include the appendices of the thesis as separate files from the Appendices folder
 % Uncomment the lines as you write the Appendices
 
-\input{Appendices/AppendixA}
-\input{Appendices/AppendixB}
-\input{Appendices/AppendixC}
-\input{Appendices/AppendixD}
-
+\input{Appendices/AppendixTools}
+\input{Appendices/AppendixHardware}
+\input{Appendices/AppendixCSTA}
+\input{Appendices/AppendixISTE}
+\input{Appendices/AppendixNGSS}
+\input{Appendices/AppendixIntro}
 \addtocontents{toc}{\vspace{2em}} % Add a gap in the Contents, for aesthetics
 
 \backmatter
