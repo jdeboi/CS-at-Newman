@@ -13,23 +13,23 @@
 \contentsline {subsection}{\numberline {2.2.1}CSTA}{15}{subsection.26}
 \contentsline {subsection}{\numberline {2.2.2}ISTE}{15}{subsection.27}
 \contentsline {subsection}{\numberline {2.2.3}College Board's Advanced Placement}{15}{subsection.28}
-\contentsline {subsection}{\numberline {2.2.4}Next Generation Science Standards}{18}{subsection.43}
-\contentsline {section}{\numberline {2.3}Online Curriculum}{18}{section.44}
-\contentsline {section}{\numberline {2.4}Hardware Tools}{19}{section.45}
-\contentsline {chapter}{\numberline {3}Newman Past and Present}{20}{chapter.46}
-\contentsline {section}{\numberline {3.1}Previous Programs}{20}{section.47}
-\contentsline {section}{\numberline {3.2}Present Status}{20}{section.48}
-\contentsline {subsection}{\numberline {3.2.1}Lower School}{20}{subsection.49}
-\contentsline {chapter}{\numberline {4}Recommendations}{25}{chapter.54}
-\contentsline {section}{\numberline {4.1}Lower School}{25}{section.55}
-\contentsline {section}{\numberline {4.2}Middle School}{25}{section.56}
-\contentsline {section}{\numberline {4.3}Upper School}{25}{section.57}
+\contentsline {subsection}{\numberline {2.2.4}Next Generation Science Standards}{19}{subsection.43}
+\contentsline {section}{\numberline {2.3}Online Curriculum}{19}{section.44}
+\contentsline {section}{\numberline {2.4}Hardware Tools}{20}{section.45}
+\contentsline {chapter}{\numberline {3}Newman Past and Present}{21}{chapter.46}
+\contentsline {section}{\numberline {3.1}Previous Programs}{21}{section.47}
+\contentsline {section}{\numberline {3.2}Present Status}{21}{section.48}
+\contentsline {subsection}{\numberline {3.2.1}Lower School}{21}{subsection.49}
+\contentsline {chapter}{\numberline {4}Recommendations}{26}{chapter.54}
+\contentsline {section}{\numberline {4.1}Lower School}{26}{section.55}
+\contentsline {section}{\numberline {4.2}Middle School}{26}{section.56}
+\contentsline {section}{\numberline {4.3}Upper School}{26}{section.57}
 \vspace {2em}
-\contentsline {chapter}{\numberline {A}Appendix: Online Curriculum}{28}{appendix.66}
-\contentsline {chapter}{\numberline {B}Appendix: Hardware Tools}{33}{appendix.68}
-\contentsline {chapter}{\numberline {C}Appendix: CSTA Benchmarks}{34}{appendix.70}
-\contentsline {chapter}{\numberline {D}Appendix: ISTE Standards}{42}{appendix.76}
-\contentsline {chapter}{\numberline {E}Appendix: NGSS Standards}{44}{appendix.116}
-\contentsline {chapter}{\numberline {F}Appendix: Introductory CS Syllabi}{46}{appendix.118}
+\contentsline {chapter}{\numberline {A}Appendix: Online Curriculum}{29}{appendix.66}
+\contentsline {chapter}{\numberline {B}Appendix: Hardware Tools}{34}{appendix.68}
+\contentsline {chapter}{\numberline {C}Appendix: CSTA Benchmarks}{35}{appendix.70}
+\contentsline {chapter}{\numberline {D}Appendix: ISTE Standards}{43}{appendix.76}
+\contentsline {chapter}{\numberline {E}Appendix: NGSS Standards}{45}{appendix.116}
+\contentsline {chapter}{\numberline {F}Appendix: Introductory CS Syllabi}{47}{appendix.118}
 \vspace {2em}
-\contentsline {chapter}{Bibliography}{47}{dummy.119}
+\contentsline {chapter}{Bibliography}{48}{dummy.119}

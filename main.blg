@@ -13,6 +13,8 @@ Warning--empty year in googed
 Warning--empty author in wit
 Warning--empty year in wit
 Warning--empty year in wit
+Warning--empty journal in resonline
+Warning--empty journal in resdig
 Warning--empty author in laborstats
 Warning--empty journal in codeorgstats
 Warning--empty journal in gallup
@@ -33,6 +35,9 @@ Warning--empty journal in edisonacad
 Warning--empty journal in westside
 Warning--empty year in westside
 Warning--empty year in westside
+Warning--empty journal in mit
+Warning--empty year in mit
+Warning--empty year in mit
 Warning--empty journal in pomonacs1
 Warning--empty year in pomonacs1
 Warning--empty journal in pomona
@@ -42,50 +47,57 @@ Warning--empty title in iste
 Warning--empty journal in iste
 Warning--empty year in iste
 Warning--empty year in iste
+Warning--empty journal in guo
+Warning--empty journal in apcsfaq
+Warning--empty year in apcsfaq
+Warning--empty year in apcsfaq
+Warning--empty journal in apframe
+Warning--empty year in apframe
+Warning--empty year in apframe
 Warning--empty journal in ngsss
 Warning--empty journal in tynker
 Warning--empty year in tynker
 Warning--empty year in tynker
 Warning--empty journal in ngss
-You've used 28 entries,
+You've used 39 entries,
             2481 wiz_defined-function locations,
-            678 strings with 8543 characters,
-and the built_in function-call counts, 7631 in all, are:
-= -- 670
-> -- 176
-< -- 24
-+ -- 109
-- -- 50
-* -- 462
-:= -- 1208
-add.period$ -- 101
-call.type$ -- 28
-change.case$ -- 55
-chr.to.int$ -- 25
-cite$ -- 75
-duplicate$ -- 505
-empty$ -- 801
-format.name$ -- 76
-if$ -- 1602
+            726 strings with 10183 characters,
+and the built_in function-call counts, 10600 in all, are:
+= -- 928
+> -- 253
+< -- 35
++ -- 153
+- -- 72
+* -- 624
+:= -- 1697
+add.period$ -- 140
+call.type$ -- 39
+change.case$ -- 77
+chr.to.int$ -- 36
+cite$ -- 98
+duplicate$ -- 703
+empty$ -- 1109
+format.name$ -- 109
+if$ -- 2223
 int.to.chr$ -- 4
-int.to.str$ -- 29
-missing$ -- 28
-newline$ -- 165
-num.names$ -- 72
-pop$ -- 294
+int.to.str$ -- 40
+missing$ -- 39
+newline$ -- 226
+num.names$ -- 105
+pop$ -- 403
 preamble$ -- 1
-purify$ -- 28
+purify$ -- 39
 quote$ -- 0
-skip$ -- 271
+skip$ -- 382
 stack$ -- 0
-substring$ -- 75
-swap$ -- 50
+substring$ -- 97
+swap$ -- 71
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 196
-warning$ -- 43
-while$ -- 49
+type$ -- 273
+warning$ -- 55
+while$ -- 71
 width$ -- 0
-write$ -- 359
-(There were 44 warnings)
+write$ -- 498
+(There were 56 warnings)

@@ -1,4 +1,4 @@
-\begin{thebibliography}{28}
+\begin{thebibliography}{39}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -50,6 +50,39 @@ Y.~Koh.
 \newblock \emph{Wall Street Journal}, December 2015.
 \newblock URL
   \url{http://blogs.wsj.com/digits/2015/12/10/new-education-bill-to-get-more-coding-in-classrooms/}.
+
+\bibitem[Fox(2009)]{insurgent}
+Stuart Fox.
+\newblock Sophisticated new computer models predict details of insurgent
+  attacks.
+\newblock \emph{Popular Science}, December 2009.
+\newblock URL
+  \url{http://www.popsci.com/technology/article/2009-12/competing-computer-models-predict-insurgent-attacks}.
+
+\bibitem[Papert(1993)]{papert1}
+S.~Papert.
+\newblock The children’s machine: Rethinking school in the age of the
+  computer.
+\newblock \emph{New York: Basic Books}, 1993.
+
+\bibitem[Resnick(1998)]{res98}
+Mitchel Resnick.
+\newblock Technologies for lifelong kindergarten.
+\newblock \emph{Educational Technology Research and Development}, 46, 1998.
+
+\bibitem[Siegel(2015)]{resonline}
+Mitchel Resnick \&~David Siegel.
+\newblock A different approach to coding: How kids are making and remaking
+  themselves from scratch.
+\newblock November 2015.
+\newblock URL
+  \url{https://medium.com/bright/a-different-approach-to-coding-d679b06d83a#.fjqzcpiyj}.
+
+\bibitem[Resnick(2002)]{resdig}
+Mitchel Resnick.
+\newblock Rethinking learning in the digital age.
+\newblock 2002.
+\newblock URL \url{https://llk.media.mit.edu/papers/mres-wef.pdf}.
 
 \bibitem[lab(2014)]{laborstats}
 Employment projections.
@@ -124,6 +157,12 @@ Westside High School~Magnet for Integrated~Technology.
 \newblock Computing science and engineering.
 \newblock URL \url{http://www.houstonisd.org/Page/73698}.
 
+\bibitem[of~the Registrar()]{mit}
+MIT~Office of~the Registrar.
+\newblock Course 6: Electrical engineering and computer science iap/spring
+  2016.
+\newblock URL \url{http://student.mit.edu/catalog/m6a.html}.
+
 \bibitem[Department({\natexlab{a}})]{pomonacs1}
 Pomona College Computer~Science Department.
 \newblock Course catalog - computer science.
@@ -156,6 +195,40 @@ College Board.
 \newblock \emph{Advances in AP}, December 2015.
 \newblock URL
   \url{https://advancesinap.collegeboard.org/stem/computer-science-principles/course-details}.
+
+\bibitem[Tierney(2012)]{atlantic}
+John Tierney.
+\newblock Ap classes are a scam.
+\newblock \emph{Atlantic}, October 2012.
+\newblock URL
+  \url{http://www.theatlantic.com/national/archive/2012/10/ap-classes-are-a-scam/263456/}.
+
+\bibitem[Guo(2014)]{unilang}
+Philip Guo.
+\newblock Python is now the most popular introductory teaching language at top
+  u.s. universities.
+\newblock \emph{Communications of the ACM}, July 2014.
+\newblock URL
+  \url{http://cacm.acm.org/blogs/blog-cacm/176450-python-is-now-the-most-popular-introductory-teaching-language-at-top-us-universities/fulltext}.
+
+\bibitem[Guo(2007)]{guo}
+Philip Guo.
+\newblock Why python is a great language for teaching beginners in introductory
+  programming classes.
+\newblock May 2007.
+\newblock URL \url{http://pgbovine.net/python-teaching.htm}.
+
+\bibitem[Placement()]{apcsfaq}
+College Board~Advance Placement.
+\newblock Computer science principles faqs.
+\newblock URL
+  \url{https://advancesinap.collegeboard.org/stem/computer-science-principles/faq}.
+
+\bibitem[Board()]{apframe}
+College Board.
+\newblock Ap computer science principles curriculum framework.
+\newblock URL
+  \url{https://secure-media.collegeboard.org/digitalServices/pdf/ap/ap-computer-science-principles-curriculum-framework.pdf}.
 
 \bibitem[Standards(2015{\natexlab{a}})]{ngsss}
 Next Generation~Science Standards.
