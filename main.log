@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  15 MAR 2016 14:27
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  17 MAR 2016 20:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -918,32 +918,42 @@ Underfull \hbox (badness 1168) in paragraph at lines 216--216
 \OT1/cmr/m/n/10.95 dur-ing the course to demon-strate the
  []
 
-[16] [17] [18] [19]) (./Chapters/Chapter2.tex [20]
+[16] [17] [18] [19]
+
+Package natbib Warning: Citation `kahnresource' on page 20 undefined on input l
+ine 251.
+
+[20] [21]
+
+Package natbib Warning: Citation `washpostcs' on page 22 undefined on input lin
+e 302.
+
+[22] [23]) (./Chapters/Chapter2.tex [24]
 Chapter 3.
 ------------------------------------------------------------------------------
  3 Newman Past and Present
 ------------------------------------------------------------------------------
-[21
+[25
 
-] [22] [23] [24]) (./Chapters/Chapter3.tex [25]
+] [26] [27] [28]) (./Chapters/Chapter3.tex [29]
 Chapter 4.
 ------------------------------------------------------------------------------
  4 Recommendations
 ------------------------------------------------------------------------------
-[26
+[30
 
 ]
 
-LaTeX Warning: Reference `AppendixIntro' on page 27 undefined on input line 58.
+LaTeX Warning: Reference `AppendixIntro' on page 31 undefined on input line 58.
 
 
-[27]) (./Appendices/AppendixTools.tex [28]
+[31]) (./Appendices/AppendixTools.tex [32]
 Appendix A.
 ------------------------------------------------------------------------------
  A Appendix: Online Curriculum
 ------------------------------------------------------------------------------
 
-Package natbib Warning: Citation `codeapps' on page 29 undefined on input line 
+Package natbib Warning: Citation `codeapps' on page 33 undefined on input line 
 9.
 
 
@@ -1501,9 +1511,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 56--56
 []|\OT1/cmr/m/n/9 $2000
  []
 
-[29
+[33
 
-] [30] [31] [32]) (./Appendices/AppendixHardware.tex [33]
+] [34] [35] [36]) (./Appendices/AppendixHardware.tex [37]
 Appendix B.
 ------------------------------------------------------------------------------
  B Appendix: Hardware Tools
@@ -1563,35 +1573,35 @@ Underfull \hbox (badness 10000) in paragraph at lines 20--20
 []|\OT1/cmr/m/n/9 A rich, pro-grammable
  []
 
-) (./Appendices/AppendixCSTA.tex [34
+) (./Appendices/AppendixCSTA.tex [38
 
 ]
 Appendix C.
 ------------------------------------------------------------------------------
  C Appendix: CSTA Benchmarks
 ------------------------------------------------------------------------------
-[35
+[39
 
-] [36] [37] [38] [39] [40] [41]) (./Appendices/AppendixISTE.tex [42]
+] [40] [41] [42] [43] [44] [45]) (./Appendices/AppendixISTE.tex [46]
 Appendix D.
 ------------------------------------------------------------------------------
  D Appendix: ISTE Standards
 ------------------------------------------------------------------------------
-[43
+[47
 
-]) (./Appendices/AppendixNGSS.tex [44]
+]) (./Appendices/AppendixNGSS.tex [48]
 Appendix E.
 ------------------------------------------------------------------------------
  E Appendix: NGSS Standards
 ------------------------------------------------------------------------------
-[45
+[49
 
-]) (./Appendices/AppendixIntro.tex [46]
+]) (./Appendices/AppendixIntro.tex [50]
 Appendix F.
 ------------------------------------------------------------------------------
  F Appendix: Introductory CS Syllabi
 ------------------------------------------------------------------------------
-) [47
+) [51
 
 ]
 ------------------------------------------------------------------------------
@@ -1651,7 +1661,7 @@ Underfull \hbox (badness 3039) in paragraph at lines 74--80
 ][]$\OT1/cmtt/m/n/9 https : / / medium . com / bright /
  []
 
-[48
+[52
 
 
 ]
@@ -1695,7 +1705,7 @@ Overfull \hbox (7.45067pt too wide) in paragraph at lines 207--213
 y-[]teaching-[]language-[]at-[]top-[]us-[]universities /
  []
 
-[49]
+[53]
 Underfull \hbox (badness 10000) in paragraph at lines 228--232
 []\OT1/cmr/m/n/9 College Board.  Ap com-puter sci-ence prin-ci-ples cur-ricu-lu
 m frame-
@@ -1718,13 +1728,13 @@ n stan-dards.  2015.  URL [][]$\OT1/cmtt/m/n/9 http : / / www .
 Package natbib Warning: There were undefined citations.
 
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 179.
-[50]
+[54]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 179.
  (./main.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 179.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 179.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 467B9FF149DF755B642FE8A7D29AA069;5446.
+(rerunfilecheck)             Checksum: 3EF9ED0E3E5FFD07E3089FE8235D4358;5446.
 
 
 LaTeX Warning: There were undefined references.
@@ -1732,13 +1742,13 @@ LaTeX Warning: There were undefined references.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 179.
  ) 
 Here is how much of TeX's memory you used:
- 13895 strings out of 493089
- 193105 string characters out of 6134842
+ 13909 strings out of 493089
+ 193223 string characters out of 6134842
  306891 words of memory out of 5000000
- 16928 multiletter control sequences out of 15000+600000
+ 16930 multiletter control sequences out of 15000+600000
  16335 words of font info for 60 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 49i,13n,54p,1198b,575s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 49i,13n,54p,1197b,575s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 </usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></
@@ -1755,10 +1765,10 @@ live/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texl
 ive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/local/texliv
 e/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/local/texlive/
 2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
-Output written on main.pdf (56 pages, 380043 bytes).
+Output written on main.pdf (60 pages, 389959 bytes).
 PDF statistics:
- 902 PDF objects out of 1000 (max. 8388607)
- 811 compressed objects within 9 object streams
- 216 named destinations out of 1000 (max. 500000)
+ 935 PDF objects out of 1000 (max. 8388607)
+ 840 compressed objects within 9 object streams
+ 228 named destinations out of 1000 (max. 500000)
  270 words of extra memory for PDF output out of 10000 (max. 10000000)
 

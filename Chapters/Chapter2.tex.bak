@@ -9,7 +9,7 @@
 
 %----------------------------------------------------------------------------------------
 \section{Previous Programs}
-The inclusion, dissolution, and subsequent reemergence of computer science in secondary education is not unique to Newman. As Kafai and Burke ~\cite{backtoschool} point out, in the 1980s many schools featured Basic or Logo programming, but by the mid 90s, CS was on the decline. Kafai and Burke point to the lack of subject-matter integration, difficulty finding qualified instructors, and rise of the internet precipitating a shift of emphasis from programming to software-specific proficiency and web surfing literacy. They argue that several significant changes, such as the plethora of fun and engaging coding sites with self-guided, online curriculum, are responsible for a resurgence in CS education. In addition, they point to ``a shift from tools to communities." Sites like Scratch operates much like a social networking site that facilitates content sharing and open source exchange \cite{backtoschool}.
+The inclusion, dissolution, and subsequent reemergence of computer science in secondary education is not unique to Newman. As Kafai and Burke ~\cite{backtoschool} point out, in the 1980s many schools featured Basic or Logo programming, but by the mid 90s, CS was on the decline. Kafai and Burke point to the lack of subject-matter integration, difficulty finding qualified instructors, and rise of the internet precipitating a shift of emphasis from programming to software-specific proficiency and web surfing literacy. They argue that several significant changes, such as the plethora of fun and engaging coding sites with self-guided, online curriculum, are responsible for a resurgance in CS education. In addition, they point to ``a shift from tools to communities." Sites like Scratch operates much like a social networking site that facilitates content sharing and open source exchange \cite{backtoschool}.
 
 
 
@@ -21,9 +21,9 @@ Exposure to coding in Lower School currently takes place during Media. Susie Tos
 \begin{definition}
 \item [2nd] Code.org
 \item [3rd] Scratch
-\item [4th] Computer literacy: keyboarding (Typing Pal, which is currently the purview of the homeroom; 2x week for 10 minutes)
+\item [4th] Computer literacy: keyboarding (Typing Pal, which is currently the perview of the homeroom; 2x week for 10 minutes)
 \end{definition}
-Jennifer Williams and Elaine Sevin offer a collaborative 2nd/5th grade LEGO WeDo robotics unit that meets once per month for 50 minutes. The exercise, to control a soccer player and kick a ball into a LEGO goal, simulates real life phenomenon through LEGOs and code. Students are introduced to CS topics such as abstraction, problem deconstruction, and serialization of tasks. While this robotics exposure is a valuable and highly-engaging engineering exercise that clearly augments LS coding curriculum, additional time is required to convey foundational CS topics. \par
+Jennifer Williams and Elaine Sevin offer a collaborative 2nd/5th grade LEGO WeDo robotics unit that meets once per month for 50 minutes. The excerise, to control a soccer player and kick a ball into a LEGO goal, simulates real life phenonmenon through LEGOs and code. Students are introduced to CS topics such as abstraction, problem deconstruction, and serialization of tasks. While this robotics exposure is a valuable and highly-engaging engineering exercise that clearly augments LS coding curriculum, additional time is required to convey foundational CS topics. \par
 Finally, programmable hardware is used in 2nd grade science. During the Mars unit, students program Bee-Bots, small robots for teaching sequencing and problem solving. \par
 
 \textbf{LS Faculty Brainstorm} \par
@@ -35,7 +35,7 @@ A facilitated brainstorm during an afternoon faculty meeting helped to elicit th
 \item [Q4.] What are your concerns about implementing coding curriculum at Newman?
 \end{definition}
 A table of all of the responses can be found in Appendix [insert]. There were a handful of recurring ideas that emerged across all grades. LS teachers were concerned about the balance of coding vs. computer literacy, specifically that the rise of coding came at the cost of students' ability to effectively operate computers in class. Additional proficiency and knowledge of word processing, internet research, internet safety and ethics, file structure, keyboarding, and troubleshooting were some of the most common responses to questions two and three. \par
-As for question four - concerns related specifically to implementing coding curriculum - teachers overwhelmingly cited the need for CS professional development. The issue of time was also raised multiple times: how will CS fit into the existing schedule, and what will be sacrificed to make room for this new subject? \par
+As for question four - concerns related specifically to implenting coding curriculum - teachers overwhelmingly cited the need for CS professional development. The issue of time was also raised multiple times: how will CS fit into the existing schedule, and what will be sacraficed to make room for this new subject? \par
 
 \textbf{Meeting Benchmarks} \par
 The CSTA benchmarks, found in Appendix \ref{AppendixCSTA}, are the most highly cited and comprehensive CS standards, especially for grades K-6. Many of the CSTA benchmarks are already met by Newman's existing curriculum. Discussed below are coding and computer literacy benchmarks less likely to be covered by default. \par
@@ -55,13 +55,13 @@ Selected CSTA standards for grades 3-6:
 \begin{definition}
 	\item [CODING]
 	\item [L1CP05]	Construct a program as a set of step-by-step instructions to be acted out.
-	\item [L1CP06]	Implement problem solutions using a block-based visual programming language. 
+	\item [L1CP06]	Implement problem solutions using a blockbased visual programming language. 
 	\item [L1CT01]	Understand and use the basic steps in algorithmic problem-solving (e.g., problem statement and exploration, examination of sample instances, design, implementation, and testing).
 	\item [L1CT02]	Develop a simple understanding of an algorithm (e.g., search, sequence of events, or sorting) using computer-free exercises.
 	\item [L1CT05]	Make a list of sub-problems to consider while addressing a larger problem.
 	\item [COMPUTER LITERACY] 
 	\item [L1C01]	Use productivity technology tools (e.g., word processing, spreadsheet, presentation software) for individual and collaborative writing, communication, and publishing activities. 
-	\item [L1C02]	Use online resources (e.g., email, online discussions, collaborative web environments) to participate in collaborative problem solving activities for the purpose of developing solutions or products.
+	\item [L1C02]	Use online resources (e.g., email, online discussions, collaborative web environments) to participate in collaborative problemsolving activities for the purpose of developing solutions or products.
 	\item [L1CD1]	Demonstrate an appropriate level of proficiency with keyboards and other input and output devices
 	\item [L1CD3]	Apply strategies for identifying simple hardware and software problems that may occur during use.
 	\item [L1CI01]	Discuss basic issues related to responsible use of technology and information, and the consequences of inappropriate use.
@@ -69,7 +69,7 @@ Selected CSTA standards for grades 3-6:
 	\item [L1CI03]	Evaluate the accuracy, relevance, appropriateness, comprehensiveness, and biases that occur in electronic information sources.
 	\item [L1CI04]	Understand ethical issues that relate to computers and networks (e.g., equity of access, security, privacy, copyright, and intellectual property).
 	\item [L1CP04]	Gather and manipulate data using a variety of digital tools.
-	\item [L1CP08]	Navigate between web pages using hyperlinks and conduct simple searches using search engines. 
+	\item [L1CP08]	Navigate between webpages using hyperlinks and conduct simple searches using search engines. 
 \end{definition}
 At this point in time, LS Newman curriculum is on track to meet the CSTA standards. Specific program recommendations are discussed in the next section.\par
 % UPPER SCHOOL -------------------------------------------   
