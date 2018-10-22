@@ -1,0 +1,93 @@
+% Appendix Template
+
+\chapter{Appendix: Sample CS Syllabi} % Main appendix title
+
+\label{AppendixCC} % Change X to a consecutive letter; for referencing this appendix elsewhere, use \ref{AppendixX}
+
+\lhead{Appendix: Sample CS Syllabi} % Change X to a consecutive letter; this is for the header on each page - perhaps a shortened title
+
+{\large \textbf{TIER 1: THE ART OF MAKING}}\par
+This course is a hands-on introduction to the technology and mindsets of making. Projects will introduce students to coding, engineering, and design thinking by leveraging tools like Arduinos, 3D printers, laser cutters, and more. Wearable tech, line-following robots, and electronic music instruments are just a few examples of potential projects created in this course.\par
+
+\textbf{Course Objectives}
+\begin{enumerate}
+	\item Know how to safely operate the tools of the Makerspace, including the laser cutter, 3D printers, and CNC.
+	\item Develop basic 3D modeling proficiency with CAD tools.
+	\item Develop an introductory-level understanding of object oriented programming, including data types, variables, control structures, and algorithms.
+	\item Communicate coding’s enormous potential for innovation and creativity, as well as its applicability to a diverse set of careers and disciplines.
+	\item Understand and apply design thinking principles in the creation of digital or physical prototypes.
+\end{enumerate} \par
+
+\textbf{Grade Breakdown}
+\begin{itemize}
+	\item 10\% - Class Participation
+	\item 10\% - Homework
+	\item 30\% - Project 1 - Wearable Tech Design Challenge
+	\item 30\% - Project 2 - Electronic Music Design Challenge
+	\item 10\% - TED Tech Talk
+	\item 10\% - Online Web Portfolio
+\end{itemize} \par
+
+\textbf{Overview}
+
+\begin{longtable}{|p{1.8cm} | p{4cm} | p{6cm}|p{2cm}|}
+	\hline
+\textbf{Week} & \textbf{Overview}     & \textbf{Description}        & \textbf{Benchmarks}    \\ \hline
+1             & Introduction to Arduino                       & Variables, primitive data types, binary data representation, functions                                                                                                                           & US1.1, US1.2, US1.3, US1.4, US1.8 \\ \hline
+2             & Sensors and Logic                             & Sensors, boolean logic (if/else statements), Serial Monitor                                                                                                                                      & US1.6                             \\ \hline
+3             & Control Structures                            & Arrays, control structures, libraries                                                                                                                                                            & US1.2, US1.5                      \\ \hline
+4-7      & Wearable Tech Design Challenge                & Students will work in groups to design and code a human-centered, interactive wearable tech solution to address a design challenge.                                                              & US1.7, US1.9, US1.10              \\ \hline
+8-9     & Introduction to 3D Modeling                   & Students will work with Autodesk 123D Design to explore the fundamentals of 3D modeling and 3D printing.                                                                                         &                                  \\ \hline
+10            & Introduction to Laser Cutting                 & Vector programs (Inkscape), bitmap tracing, etching and cutting                                                                                                                                  &                                 \\ \hline
+11-14    & Electronic Music Instruments Design Challenge & Students will work in teams to develop innovative electronic music instruments using all of the tools explored during the course: 3D printing, laser cutting, Arduinos, electronics, and coding. & US1.7, US1.9                      \\ \hline
+15-16         & Online Portfolio                              & Students work with HTML, CSS, and Javascript to develop simple online portfolios.     & US1.7, US1.11                     \\ \hline
+\end{longtable}
+
+\textbf{TED Tech Talks}\par
+TED Tech Talks are weekly lectures given by students to educate the class about the diverse applications of coding, important computer science topics not covered in the course, or additional programming languages that are not explored in The Art of Making. TED Talks cover benchmarks US1.12 and US1.13. Potential topics include: internet infrastructure, cybersecurity, internet ethics; coding applications to music, art, medecine, video games, math, science research, or other disciplines; and information about languages like Max/Jitter, Processing, Python, Java, etc.
+
+
+\clearpage
+
+{\large \textbf{TIER 2: CREATIVE CODING}}\par
+Creative coding is an introduction to computer science that employs computer programming as a medium for creative expression and innovation. Students develop creative solutions to design thinking challenges using languages like Processing, a visual programming language designed for artists, and Arduino, a programmable platform for building electronics projects. Web animations, data visualizations, wearable technology, interactive LED art, and electronic music instruments are just a few potential projects explored in this hands-on course.\par
+
+
+\textbf{Course Objectives}
+\begin{enumerate}
+	\item Develop a deeper understanding of object oriented programming, including classes, objects, methods, polymorphism, and inheritance.
+	\item Successfully collaborate on a programming project using version control (Git).
+	\item Explore JavaScript libraries and APIs for creative, interactive web development.
+	\item Manipulate and analyze (through visualization) large data sets.  
+	\item Communicate coding’s enormous potential for innovation and creativity.
+\end{enumerate} \par
+
+\textbf{Grade Breakdown}
+\begin{itemize} 
+	\item 5\% - TED Tech Talks
+	\item 10\% - Class Participation
+	\item 10\% - Homework
+	\item 20\% - Project 1 - Generative Art
+	\item 20\% - Project 2 - Data Visualization
+	\item 25\% - Project 3 - Virtual Reality
+	\item 10\% - Online Portfolios
+\end{itemize} \par
+
+\textbf{Overview}
+\begin{longtable}{|p{1.8cm} | p{4cm} | p{6cm}|p{2cm}|}
+	\hline
+\textbf{Week} & \textbf{Overview}             & \textbf{Description}    & \textbf{Benchmarks}  \\ \hline
+1-2           & Introduction to Processing    & Variables, primitive data types, functions, arrays, boolean logic, control structures, drawing, color, hexadecimal notation                   & US2.4                \\ \hline
+3-4           & Classes in Processing         & Classes, objects, methods, inheritance, polymorphism, abstract classes                                                                        & US2.1, US2.2         \\ \hline
+5-7           & Generative Art                & Students will develop an interactive, generative art project that implements a unique class.                                                  &                     \\ \hline
+8             & Introduction to Processing.js & HTML, CSS, Processing.js, data analysis                                                                                                       & US2.8, US2.3, US2.6  \\ \hline
+9-10          & Data Visualization            & Students will find a personally-relevant data set and code an interactive data visualization on the web.                                      & US2.7, US2.10, US2.5 \\ \hline
+10            & Git                           & Version control, push, pull, branches, merges, collaboration                                                                                  & US2.5, US2.9         \\ \hline
+11            & Three.js and A-Frame          & Introduction to libraries for creating JavaScript VR                                                                                          & US2.8                \\ \hline
+12-15         & Virtual Reality               & Students will work in teams to create a virtual reality world. Teams must collaborate and demonstrate proficiency with version control (Git). & US2.9                \\ \hline
+16            & Online Portfolio              & Students work with HTML, CSS, and Javascript to develop simple online portfolios.                                                             &                     \\ \hline
+
+\end{longtable}
+
+\textbf{TED Tech Talks}\par
+TED Tech Talks are weekly lectures given by students to educate the class about a highly creative, innovative application of computer programming. TED Talks cover benchmarks US2.11, US2.12, and US2.13.

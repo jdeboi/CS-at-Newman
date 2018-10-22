@@ -1,61 +1,61 @@
 % Chapter Template
 
-\chapter{Recommendations} % Main chapter title
+\chapter{Newman Past and Present} % Main chapter title
 
 \label{Chapter3} % Change X to a consecutive number; for referencing this chapter elsewhere, use \ref{ChapterX}
 
-\lhead{Chapter 3. \emph{Recommendations}} % Change X to a consecutive number; this is for the header on each page - perhaps a shortened title
+\lhead{Chapter 3. \emph{Newman Past and Present}} % Change X to a consecutive number; this is for the header on each page - perhaps a shortened title
 
 
 %----------------------------------------------------------------------------------------
-\section{Lower School}
-\section{Middle School}
-Possible implementation strategies to explore: CS inegrated in the classroom, 6th grade science course, club time, flex time, new schedule
-
-\section{Upper School}
-Unlike the Middle School schedule, the Upper School sequence affords time and space for computer science electives, as well as a graduation requirement. The rotating eight block schedule means there are 32 possible credits, although Newman students rarely graduate with greater than 30, typically averaging approximately 27 credits. The student handbook stipulates that students must complete 24 academic credits to graduate, taken from the following subject areas: \par
-
-\begin{table}
-	\begin{center}
-\begin{tabular}{ | l | c | }
-	
-	\hline
-	\textbf{Subject} & \textbf{Credits} \\ \hline
-	English & 4 \\ \hline
-	Mathematics & 4 \\ \hline
-	History/Social Studies & 4 \\ \hline
-	Science & 3 \\ \hline
-	World Languages & 3 \\ \hline
-	Arts & 2 \\ \hline
-	Physical Education & 2 \\ \hline
-	Electives & 2 \\ \hline
-	\textbf{Total} & \textbf{24} \\ \hline
-\end{tabular} 
-\caption{Upper School Graduation Requirements} \label{tab:usreqs} 
-\end{center}
-\end{table}
-\par
-The ``elective" graduation requirement is the most obvious space to insert CS courses. It's worth examining which departments and classes may be impacted by these additional electives.\par
-If the ultimate objective is to treat CS as foundational subject on par with core subjects like math and English, a critical analysis of the Upper School curriculum will be required to make space for a new set of mandated credits. Given the nascent status of computer science at Newman, this document will not attempt to evaluate the merits of the existing sequence or propose potentially subversive structural changes. Nevertheless, it's instructive to examine schools with robust CS requirements and evaluate how a similar program at Newman might affect existing courses.\par
+\section{Previous Programs}
+There hasn't always been a dearth of K-12 CS courses at Newman. In the 1990s computer courses and faculty positions existed in all divisions. From around 1991-1996 Minnette Patton, currently the Assisstant Head of Lower School, taught the lower school Computer course. Students in K-5 came to the lab 2-3 times per week, and depending on grade level, students started with Logo or Microworlds. Hyperstudio, keyboarding, word processing, PowerPoint, and connecting to internet were also covered in the class. In the upper school, all students had to take a computer applications course to graduate, as mandated by the state of Louisiana. Computer literacy, specifically keyboarding, was a large part of the curriculum. Around 1994 a million dollar technology grant was used to put computers in classrooms. Technology coordinators were hired in each division to help teachers integrate technology into the classroom, while computer teachers continued teaching coding.\par
+By the early 2000s, however, coding had ceased in all divisions. One of the failures of this program according to Dale Smith, the Head of School and a former CS teacher at Newman, was that CS was not integrated into other subject areas, thereby failing to remain relevant. \par
+The inclusion, dissolution, and subsequent reemergence of computer science in secondary education is not unique to Newman. As Kafai and Burke ~\cite{backtoschool} point out, in the 1980s many schools featured Basic or Logo programming, but by the mid 90s, CS was on the decline. Kafai and Burke point to the lack of subject-matter integration, difficulty finding qualified instructors, and rise of the internet precipitating a shift of emphasis from programming to software-specific proficiency and web surfing literacy. They argue that several significant changes, such as the plethora of fun and engaging coding sites with self-guided, online curriculum, are responsible for a resurgence in CS education. In addition, they point to ``a shift from tools to communities." Sites like Scratch operates much like a social networking site that facilitates content sharing and open source exchange \cite{backtoschool}.
 
 
-\hiddensubsection{Standards}
 
-\hiddensubsection{AP Computer Science}
+\section{Present Status}
+% LOWER SCHOOL -------------------------------------------
+\hiddensubsection{Lower School}
+%TODO
+\textbf{Coding Already Happening} \\
+Beginning last year, Susie Toso started teaching coding during Media, a class that meets once per week for 50 minutes in grades 1st-4th. Media covers the following subjects and tools:
+\begin{description}
+	\item [1st] Students work with coding iPad apps such as Kodable, Scratch Jr., and Tynker. The emphasis is on play and exploration. Kodable topics include: sequencing, loops, conditionals, functions, ints, and Strings.
+	\item [2nd] Second grade works with Code.org and has completed Course 1 (rated for ages ages 4-6) and 2 (for ages 6+). From the Code.org website, subjects from Course 1 include sequences, loops and events, collaboration, problem-solving, and internet safety. Course 2 covers conditionals, algorithms, binary code, debugging, and the societal impacts of computing.
+	\item [3rd] In third grade students code with Scratch, practice setting up Google Docs, visit website through Symbaloo, and practice logging in.
+	\item [4th] Fourth grade is split between Kodable (sequencing, loops, conditionals, functions, ints, and Strings) and Code.org. 
+\end{description}
+In lower school science Jennifer Williams and Elaine Sevin offer a collaborative 2nd/5th grade LEGO WeDo robotics unit that meets once per month for 50 minutes. The exercise, to control a soccer player and kick a ball into a LEGO goal, simulates real life phenomenon through LEGOs and code. Students are introduced to CS topics such as abstraction, problem deconstruction, and serialization of tasks. While this robotics exposure is a valuable and highly-engaging engineering exercise that clearly augments LS coding curriculum, additional time is required to convey foundational CS topics. \par
+Programmable hardware is also used in 2nd grade science. During the Mars unit, students program Bee-Bots, small robots for teaching sequencing and problem solving. \par
+Computer literacy is also happening in the classrooms and during library time. Typing Pal is currently the purview of the homeroom; teachers assign 10 minute typing exercises twice a week. During library, students learn about conducting internet research, navigating the web, and internet safety. At this time, there is no standarized curriculum or widely-adopted computer literacy benchmarks. \par
+\textbf{LS Faculty Brainstorm} \\
+A facilitated brainstorm during an afternoon faculty meeting helped to elicit thoughts and concerns from all Lower School teachers regarding both computer literacy and coding. Faculty divided into groups based on a grade and answered the following questions on Post-its: \par
+\begin{description}
+	\item [Q1.] How is technology used in your classroom?
+\item [Q2.] What do you wish/ think your students should know that they currently don't about coding and computer literacy?
+\item [Q3.] What are your hopes and dreams for computing? 
+\item [Q4.] What are your concerns about implementing coding curriculum at Newman?
+\end{description}
+A table of all of the responses can be found in Appendix \ref{AppendixBRAIN}. There were a handful of recurring ideas that emerged across all grades. LS teachers were concerned about the balance of coding vs. computer literacy, specifically that the rise of coding came at the cost of students' ability to effectively operate computers in class. Additional proficiency and knowledge of word processing, internet research, internet safety and ethics, file structure, keyboarding, and troubleshooting were some of the most common responses to questions two and three. \par
+As for question four - concerns related specifically to implementing coding curriculum - teachers overwhelmingly cited the need for CS professional development. The issue of time was also raised multiple times: how will CS fit into the existing schedule, and what will be sacrificed to make room for this new subject? \par
+
+\textbf{Meeting Benchmarks} \\
+At this point in time, LS Newman curriculum is on track to meet CSTA standards. Specific program recommendations are discussed in the next section.\par
+
+% MIDDLE SCHOOL -------------------------------------------   
+\hiddensubsection{Middle School}
+There are no CS courses currently offered in the middle school. Computer science exposure is limited to Coding Club, which meets once per week on Wednesdays for approximately 30 minutes. \par
+%TODO follow up with KAte
+A small group of students has the opportunity to learn coding after school. The middle school robotics team programs LEGO Mindstorms EV3 robots using a block-based language akin to Scratch. During Makerspace, which also meets once per week after school, students may get exposure to Scratch and Arduino. Overall, however, these programs are reaching a negligible portion of the student body.\par
 
 
-\hiddensubsection{Online Education}
+% UPPER SCHOOL -------------------------------------------   
+\hiddensubsection{Upper School}
+As of writing, CS exposure at Newman is largely self-guided and limited to a small group of students. A handful of students are enrolled in Online Global Academy, an online platform offering courses in a variety of subject areas (refer to Section \ref{oga}). In the last two years, seven students have enrolled in Computer Programming I and II, and two students have taken Game Theory. \par
+Students in Tech Club meet on a weekly basis to build and program their autonomous drone. Tech Club evolved from Coding Club, a group formed in 2014 that focused on HTML, Java, and Google Code Jam. According to founding members, Coding Club ostensibly engaged students in extracurricular CS, although like many student groups, participation quickly waned as students got bored with online exercises. There were seven members last year, but the club founder reports that only a couple students actively engaged. \par 
+Several other students cite summer coding programs or online platforms like Kahn Academy for exposure to programming languages like Python and C++. Although a small handful of students are finding time and ways to code, Newman's Upper School is not providing adequate opportunities to develop critical foundational CS skills, nor is it reaching an adequate portion of the student body.  \par
 
-\hiddensubsection{Tiered CS Electives}
-A scaffolded series of CS courses is the best way to ensure 
 
-\hiddensubsection{CS Department} 
-\hiddensubsection{Innovation, Design Thinking, \& CS}
-\hiddensubsection{CS Graduation Requirement} \par
-This document strongly recommends that the Upper School adopt a 1/2 credit CS graduation requirement. A mandated credit, as opposed to an optional elective, ensures that every student- especially groups typically underrepresented in CS- get exposure to coding prior to college and have the opportunity to explore coding career possibilities prior to choosing a college major or minor. \par
 
-In addition to introducing foundational computational/coding concepts (explored in the ``Benchmarks" section), this introductory CS course should prioritize the following the exploration diverse career opportunities afforded by CS/computational thinking, as well as emphasize the potential for innovation and creative expression through code. Assuming this 1/2 credit course is the single point of CS exposure, the course needs to serve as the hook. Given the multitude of coding languages and platforms (refer to Appendix \ref{AppendixTools}), a highly-engaging project-based course that explores a myriad of hardware and software tools is \textit{both feasible and critically important} for an effective introductory CS experience. \par
-Included in Appendix \ref{AppendixIntro} are suggested syllabi for two 1/2 credit courses-- ``Creative Coding" and ``Physical Computing." Each course is designed to meet the learning objectives of an introductory series as outlined above and as specified by CSTA Benchmarks. \par
-- staffing requirements \par
-- space requirements \par
-- potential for online, self-guided instruction \par

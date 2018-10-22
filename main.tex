@@ -60,6 +60,16 @@
     \subsection*{\arabic{chapter}.\arabic{section}.\arabic{subsection}\hspace{1em}{#1}}
 }
 
+\newcommand{\hiddensubsubsection}[1]{
+    \stepcounter{subsubsection}
+    \subsubsection*{\arabic{chapter}.\arabic{section}.\arabic{subsection}.\arabic{subsubsection}.\hspace{1em}{#1}}
+}
+
+%--------------------------
+% cell in cell
+%--------------------------
+\newcommand{\specialcell}[2][c]{%
+	\begin{tabular}[#1]{@{}c@{}}#2\end{tabular}}
 %--------------------------
 
 \begin{document}
@@ -94,7 +104,7 @@
 \textsc{\large Isidore Newman School}\\[1.5cm] % University name
 \HRule \\[0.4cm] % Horizontal line
 {\huge \bfseries \ttitle}\\[0.4cm] % Thesis title
-\large \textit{ A comprehensive investigation\\and implementation strategy \\for K-12 coding}\\[0.3cm] 
+\large \textit{ A comprehensive investigation \&\\ implementation strategy guide \\for K-12 computer science}\\[0.3cm] 
 \HRule \\[1.5cm] % Horizontal line
 \large
 \emph{\authornames} \\ 
@@ -134,12 +144,11 @@
 % Include the chapters of the thesis as separate files from the Chapters folder
 % Uncomment the lines as you write the chapters
 
-\input{Chapters/Introduction}
 \input{Chapters/Chapter1} 
 \input{Chapters/Chapter2}
 \input{Chapters/Chapter3}
-%\input{Chapters/Chapter4} 
-%\input{Chapters/Chapter5} 
+\input{Chapters/Chapter4} 
+\input{Chapters/Chapter5} 
 %\input{Chapters/Chapter6} 
 %\input{Chapters/Chapter7} 
 
@@ -148,18 +157,25 @@
 %----------------------------------------------------------------------------------------
 
 \addtocontents{toc}{\vspace{2em}} % Add a gap in the Contents, for aesthetics
-
+\addtocontents{toc}{\vspace{2em}}
+\addtocontents{toc}{\vspace{2em}}
 \appendix % Cue to tell LaTeX that the following 'chapters' are Appendices
 
 % Include the appendices of the thesis as separate files from the Appendices folder
 % Uncomment the lines as you write the Appendices
+\input{Appendices/AppendixNEWMAN}
+\input{Appendices/AppendixCC}
+\input{Appendices/AppendixBRAIN}
+\addtocontents{toc}{\vspace{2em}} % Add a gap in the Contents, for aesthetics
 
 \input{Appendices/AppendixTools}
 \input{Appendices/AppendixHardware}
+\addtocontents{toc}{\vspace{2em}} % Add a gap in the Contents, for aesthetics
 \input{Appendices/AppendixCSTA}
 \input{Appendices/AppendixISTE}
-\input{Appendices/AppendixNGSS}
-\input{Appendices/AppendixIntro}
+%\input{Appendices/AppendixNGSS}
+\input{Appendices/AppendixCOMP}
+
 \addtocontents{toc}{\vspace{2em}} % Add a gap in the Contents, for aesthetics
 
 \backmatter

@@ -1,4 +1,4 @@
-\begin{thebibliography}{39}
+\begin{thebibliography}{65}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -50,6 +50,13 @@ Y.~Koh.
 \newblock \emph{Wall Street Journal}, December 2015.
 \newblock URL
   \url{http://blogs.wsj.com/digits/2015/12/10/new-education-bill-to-get-more-coding-in-classrooms/}.
+
+\bibitem[Granger(2015)]{newlit}
+Chris Granger.
+\newblock Coding is not the new literacy.
+\newblock 2015.
+\newblock URL
+  \url{http://www.chris-granger.com/2015/01/26/coding-is-not-the-new-literacy/}.
 
 \bibitem[Fox(2009)]{insurgent}
 Stuart Fox.
@@ -122,6 +129,26 @@ Independent School~Data Exchange.
 \newblock Index mission statement.
 \newblock URL \url{http://www.indexgroups.org/about/}.
 
+\bibitem[School({\natexlab{a}})]{nuevamis}
+Nueva School.
+\newblock Nueva philosophy and overview.
+\newblock {\natexlab{a}}.
+\newblock URL
+  \url{http://www.nuevaschool.org/academics/philosophy-and-overview}.
+
+\bibitem[School({\natexlab{b}})]{nuevastem}
+Nueva School.
+\newblock Scientific foundations (stem).
+\newblock {\natexlab{b}}.
+\newblock URL \url{http://www.nuevaschool.org/academics/upper-school/stem}.
+
+\bibitem[School({\natexlab{c}})]{nuevalower}
+Nueva School.
+\newblock Information technology.
+\newblock {\natexlab{c}}.
+\newblock URL
+  \url{http://www.nuevaschool.org/academics/lower-school/technology#grade-3}.
+
 \bibitem[usn(2015)]{usnews}
 Best stem high schools.
 \newblock \emph{U.S. News Education}, 2015.
@@ -134,17 +161,17 @@ Thomas Jefferson~HS for Science and Technology.
 \newblock URL
   \url{https://www.tjhsst.edu/research-academics/math-cs/computer-science/index.html}.
 
-\bibitem[School({\natexlab{a}})]{stuy}
+\bibitem[School({\natexlab{d}})]{stuy}
 Stuyvesant~High School.
 \newblock Mathematics.
-\newblock {\natexlab{a}}.
+\newblock {\natexlab{d}}.
 \newblock URL
   \url{http://stuy.enschool.org/apps/pages/index.jsp?uREC_ID=126659&type=d&termREC_ID=&pREC_ID=253269}.
 
-\bibitem[School({\natexlab{b}})]{hths}
+\bibitem[School({\natexlab{e}})]{hths}
 High Technology~High School.
 \newblock Hths courses.
-\newblock {\natexlab{b}}.
+\newblock {\natexlab{e}}.
 \newblock URL \url{http://www.hths.mcvsd.org/downloads}.
 
 \bibitem[edi(2015)]{edisonacad}
@@ -163,19 +190,27 @@ MIT~Office of~the Registrar.
   2016.
 \newblock URL \url{http://student.mit.edu/catalog/m6a.html}.
 
-\bibitem[Department({\natexlab{a}})]{pomonacs1}
+\bibitem[Department()]{pomonacs1}
 Pomona College Computer~Science Department.
 \newblock Course catalog - computer science.
-\newblock {\natexlab{a}}.
 \newblock URL
   \url{http://catalog.pomona.edu/preview_entity.php?catoid=18&ent_oid=1072&returnto=3635}.
 
-\bibitem[Department({\natexlab{b}})]{pomona}
-Pomona College Computer~Science Department.
-\newblock Learning objectives.
-\newblock {\natexlab{b}}.
-\newblock URL
-  \url{https://www.pomona.edu/academics/departments/computer-science/courses-requirements/learning-objectives}.
+\bibitem[Reactor()]{hackre}
+Hack Reactor.
+\newblock Hack reactor curriculum.
+\newblock URL \url{http://www.hackreactor.com/curriculum}.
+
+\bibitem[Spark()]{opspark}
+Operation Spark.
+\newblock Operation spark bootcamp curriculum.
+\newblock URL \url{https://operationspark.org/}.
+
+\bibitem[School(2016)]{lusherhigh}
+Lusher~Charter School.
+\newblock Lusher charter school: High school curriculum.
+\newblock 2016.
+\newblock URL \url{http://lusherschool.org/hs-curriculum-course-catalog.html}.
 
 \bibitem[(CSTA)(2011)]{csta}
 Computer Science Teachers~Association (CSTA).
@@ -188,6 +223,13 @@ Computer Science Teachers~Association (CSTA).
 International~Society for Technology Education~(ISTE).
 \newblock URL
   \url{http://www.iste.org/standards/iste-standards/standards-for-computer-science-educators}.
+
+\bibitem[at~School Working~Group(2012)]{computas}
+Computing at~School Working~Group.
+\newblock Computer science: a curriculum for schools.
+\newblock March 2012.
+\newblock URL
+  \url{http://www.computingatschool.org.uk/data/uploads/ComputingCurric.pdf}.
 
 \bibitem[Board(2015)]{APcomp}
 College Board.
@@ -230,16 +272,141 @@ College Board.
 \newblock URL
   \url{https://secure-media.collegeboard.org/digitalServices/pdf/ap/ap-computer-science-principles-curriculum-framework.pdf}.
 
-\bibitem[Standards(2015{\natexlab{a}})]{ngsss}
-Next Generation~Science Standards.
-\newblock The need for new science standards.
-\newblock 2015{\natexlab{a}}.
-\newblock URL \url{http://www.nextgenscience.org/overview-0}.
-
 \bibitem[Tynker()]{tynker}
 Tynker.
 \newblock Scope and sequence.
 \newblock URL \url{https://www.tynker.com/school/courses/}.
+
+\bibitem[kah()]{kahnresource}
+Programming curriculum overview.
+\newblock \emph{Kahn Academy}.
+\newblock URL
+  \url{https://www.khanacademy.org/coach-res/reference-for-coaches/teaching-computing/a/programming-curriculum-overview}.
+
+\bibitem[cs5()]{cs50}
+Harvard's cs50 introduction to computer science.
+\newblock \emph{edX}.
+\newblock URL
+  \url{https://www.edx.org/course/introduction-computer-science-harvardx-cs50x}.
+
+\bibitem[CSunplugged.org()]{unplug1}
+CSunplugged.org.
+\newblock Cs unplugged exercises.
+\newblock URL \url{http://csunplugged.org/text-compression/}.
+
+\bibitem[Bell and Fellows(1998)]{unplugbook}
+Witten Bell and Fellows.
+\newblock Computer science unplugged.
+\newblock 1998.
+\newblock URL
+  \url{http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.114.7908&rep=rep1&type=pdf}.
+
+\bibitem[et~al.(2009)]{unplugart}
+Tim~Bell et~al.
+\newblock Computer science unplugged: school students doing real computing
+  without computers.
+\newblock 2009.
+\newblock URL
+  \url{http://www.computingunplugged.org/sites/default/files/papers/Unplugged-JACIT2009submit.pdf}.
+
+\bibitem[George(2014)]{washpostcs}
+Donna~St. George.
+\newblock High school students are all about computers but get little
+  instruction in computer science.
+\newblock April 2014.
+\newblock URL
+  \url{https://www.washingtonpost.com/local/education/high-school-students-are-all-about-computers-but-get-little-instruction-in-computer-science/2014/04/23/13979eda-c185-11e3-bcec-b71ee10e9bc3_story.html}.
+
+\bibitem[of~State Financial Assistance~(LOSFA)(2016)]{tops}
+Louisiana~Office of~State Financial Assistance~(LOSFA).
+\newblock Taylor opportunity program for students (tops).
+\newblock 2016.
+\newblock URL
+  \url{http://www.osfa.state.la.us/MainSitePDFs/TOPS_OPH_brochure_8-11.pdf}.
+
+\bibitem[Burks(2015)]{techtimes}
+Robin Burks.
+\newblock This is how an innovative school integrated coding into all of its
+  courses.
+\newblock \emph{Tech Times}, January 2015.
+\newblock URL
+  \url{http://www.techtimes.com/articles/24689/20150105/this-is-how-a-innovative-school-integrated-coding-into-all-of-its-courses.htm}.
+
+\bibitem[Reinhardt(2015)]{aboveap}
+Peter Reinhardt.
+\newblock Replacing middle management with apis.
+\newblock February 2015.
+\newblock URL \url{http://rein.pk/replacing-middle-management-with-apis}.
+
+\bibitem[Turnali(2015)]{forbesdt}
+Kaan Turnali.
+\newblock What is design thinking?
+\newblock \emph{Forbes}, May 2015.
+\newblock URL
+  \url{http://www.forbes.com/sites/sap/2015/05/10/what-is-design-thinking/#553c036b3c18}.
+
+\bibitem[Ushahidi()]{ushahidi}
+Ushahidi.
+\newblock About ushahidi.
+\newblock URL \url{https://www.ushahidi.com/about}.
+
+\bibitem[Brigade()]{labb}
+Louisiana~Bucket Brigade.
+\newblock iwitness pollution map.
+\newblock URL \url{http://map.labucketbrigade.org/}.
+
+\bibitem[Cuthbertson(2016)]{myowhat}
+Anthony Cuthbertson.
+\newblock Armband controller translate sign language into text.
+\newblock \emph{Newsweek}, February 2016.
+\newblock URL
+  \url{http://www.newsweek.com/myo-armband-controller-translates-sign-language-text-428043}.
+
+\bibitem[Lab({\natexlab{a}})]{mitmediaabout}
+MIT~Media Lab.
+\newblock Quick facts.
+\newblock {\natexlab{a}}.
+\newblock URL \url{http://www.media.mit.edu/about}.
+
+\bibitem[Lab({\natexlab{b}})]{cba}
+MIT~Media Lab.
+\newblock Center for bits and atoms.
+\newblock {\natexlab{b}}.
+\newblock URL \url{http://cba.mit.edu/about/index.html}.
+
+\bibitem[Lab({\natexlab{c}})]{synth}
+MIT~Media Lab.
+\newblock Synthetic neurobiology.
+\newblock {\natexlab{c}}.
+\newblock URL
+  \url{http://www.media.mit.edu/research/groups/synthetic-neurobiology}.
+
+\bibitem[Callahan(2009)]{purdue}
+Rick Callahan.
+\newblock Purdue study: Hands-on learning better.
+\newblock \emph{JC Online}, February 2009.
+\newblock URL
+  \url{https://www.purdue.edu/discoverypark/learningcenter/assets/pdfs/HandsOn.pdf}.
+
+\bibitem[Ingmire(2015)]{uchic}
+Jann Ingmire.
+\newblock Learning by doing helps students perform better in science.
+\newblock \emph{UChicagoNews}, April 2015.
+\newblock URL
+  \url{http://news.uchicago.edu/article/2015/04/29/learning-doing-helps-students-perform-better-science}.
+
+\bibitem[Code.org({\natexlab{a}})]{codeorgal}
+Code.org.
+\newblock Middle school.
+\newblock {\natexlab{a}}.
+\newblock URL \url{https://code.org/educate/curriculum/middle-school}.
+
+\bibitem[Lab({\natexlab{d}})]{publab}
+Public Lab.
+\newblock Nonprofit initiatives.
+\newblock {\natexlab{d}}.
+\newblock URL
+  \url{https://publiclab.org/wiki/nonprofit-initiatives#Open+Water}.
 
 \bibitem[Bell(2015)]{edsurgetab}
 K.~Bell.
@@ -248,11 +415,9 @@ K.~Bell.
 \newblock URL
   \url{https://www.edsurge.com/news/2015-11-30-a-beginner-s-guide-to-bringing-coding-into-the-classroom}.
 
-\bibitem[Standards(2015{\natexlab{b}})]{ngss}
-Next Generation~Science Standards.
-\newblock Engineering design standards.
-\newblock 2015{\natexlab{b}}.
-\newblock URL
-  \url{http://www.nextgenscience.org/search-standards-dci?field_idea_tid%5B%5D=113}.
+\bibitem[Code.org({\natexlab{b}})]{codeorgs}
+Code.org.
+\newblock 3rd party educator resources, {\natexlab{b}}.
+\newblock URL \url{https://code.org/educate/3rdparty}.
 
 \end{thebibliography}

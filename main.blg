@@ -3,7 +3,10 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: main.aux
 The style file: unsrtnat.bst
 Database file #1: Bibliography.bib
-Warning--I didn't find a database entry for "codeapps"
+Warning--entry type for "codeorgs" isn't style-file defined
+--line 152 of file Bibliography.bib
+Name 1 in "Bell, Witten, and Fellows" has a comma at the end for entry unplugbook
+while executing---line 1233 of file unsrtnat.bst
 Warning--empty journal in cmct
 Warning--empty year in cmct
 Warning--empty year in cmct
@@ -13,6 +16,7 @@ Warning--empty year in googed
 Warning--empty author in wit
 Warning--empty year in wit
 Warning--empty year in wit
+Warning--empty journal in newlit
 Warning--empty journal in resonline
 Warning--empty journal in resdig
 Warning--empty author in laborstats
@@ -22,6 +26,12 @@ Warning--empty journal in apfive
 Warning--empty journal in index
 Warning--empty year in index
 Warning--empty year in index
+Warning--empty journal in nuevamis
+Warning--empty year in nuevamis
+Warning--empty journal in nuevastem
+Warning--empty year in nuevastem
+Warning--empty journal in nuevalower
+Warning--empty year in nuevalower
 Warning--empty author in usnews
 Warning--empty journal in tjreq
 Warning--empty year in tjreq
@@ -40,13 +50,20 @@ Warning--empty year in mit
 Warning--empty year in mit
 Warning--empty journal in pomonacs1
 Warning--empty year in pomonacs1
-Warning--empty journal in pomona
-Warning--empty year in pomona
+Warning--empty year in pomonacs1
+Warning--empty journal in hackre
+Warning--empty year in hackre
+Warning--empty year in hackre
+Warning--empty journal in opspark
+Warning--empty year in opspark
+Warning--empty year in opspark
+Warning--empty journal in lusherhigh
 Warning--empty journal in csta
 Warning--empty title in iste
 Warning--empty journal in iste
 Warning--empty year in iste
 Warning--empty year in iste
+Warning--empty journal in computas
 Warning--empty journal in guo
 Warning--empty journal in apcsfaq
 Warning--empty year in apcsfaq
@@ -54,50 +71,83 @@ Warning--empty year in apcsfaq
 Warning--empty journal in apframe
 Warning--empty year in apframe
 Warning--empty year in apframe
-Warning--empty journal in ngsss
 Warning--empty journal in tynker
 Warning--empty year in tynker
 Warning--empty year in tynker
-Warning--empty journal in ngss
-You've used 39 entries,
+Warning--empty author in kahnresource
+Warning--empty year in kahnresource
+Warning--empty year in kahnresource
+Warning--empty author in cs50
+Warning--empty year in cs50
+Warning--empty year in cs50
+Warning--empty journal in unplug1
+Warning--empty year in unplug1
+Warning--empty year in unplug1
+Name 1 in "Bell, Witten, and Fellows" has a comma at the end for entry unplugbook
+while executing---line 1315 of file unsrtnat.bst
+Name 1 in "Bell, Witten, and Fellows" has a comma at the end for entry unplugbook
+while executing---line 1315 of file unsrtnat.bst
+Warning--empty journal in unplugbook
+Warning--empty journal in unplugart
+Warning--empty journal in washpostcs
+Warning--empty journal in tops
+Warning--empty journal in aboveap
+Warning--empty journal in ushahidi
+Warning--empty year in ushahidi
+Warning--empty year in ushahidi
+Warning--empty journal in labb
+Warning--empty year in labb
+Warning--empty year in labb
+Warning--empty journal in mitmediaabout
+Warning--empty year in mitmediaabout
+Warning--empty journal in cba
+Warning--empty year in cba
+Warning--empty journal in synth
+Warning--empty year in synth
+Warning--empty journal in codeorgal
+Warning--empty year in codeorgal
+Warning--empty journal in publab
+Warning--empty year in publab
+Warning--empty year in codeorgs
+You've used 65 entries,
             2481 wiz_defined-function locations,
-            726 strings with 10183 characters,
-and the built_in function-call counts, 10600 in all, are:
-= -- 928
-> -- 253
-< -- 35
-+ -- 153
-- -- 72
-* -- 624
-:= -- 1697
-add.period$ -- 140
-call.type$ -- 39
-change.case$ -- 77
-chr.to.int$ -- 36
-cite$ -- 98
-duplicate$ -- 703
-empty$ -- 1109
-format.name$ -- 109
-if$ -- 2223
-int.to.chr$ -- 4
-int.to.str$ -- 40
-missing$ -- 39
-newline$ -- 226
-num.names$ -- 105
-pop$ -- 403
+            830 strings with 13456 characters,
+and the built_in function-call counts, 17655 in all, are:
+= -- 1542
+> -- 429
+< -- 59
++ -- 260
+- -- 122
+* -- 1037
+:= -- 2819
+add.period$ -- 235
+call.type$ -- 65
+change.case$ -- 129
+chr.to.int$ -- 57
+cite$ -- 169
+duplicate$ -- 1167
+empty$ -- 1843
+format.name$ -- 185
+if$ -- 3699
+int.to.chr$ -- 9
+int.to.str$ -- 66
+missing$ -- 64
+newline$ -- 373
+num.names$ -- 177
+pop$ -- 688
 preamble$ -- 1
-purify$ -- 39
+purify$ -- 65
 quote$ -- 0
-skip$ -- 382
+skip$ -- 630
 stack$ -- 0
-substring$ -- 97
-swap$ -- 71
+substring$ -- 151
+swap$ -- 118
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 273
-warning$ -- 55
-while$ -- 71
+type$ -- 455
+warning$ -- 98
+while$ -- 119
 width$ -- 0
-write$ -- 498
-(There were 56 warnings)
+write$ -- 824
+(There were 3 error messages)
